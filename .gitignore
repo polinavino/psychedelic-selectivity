@@ -1,0 +1,6 @@
+data/
+*.rds
+*.RData
+.DS_Store
+__pycache__/
+*.pyc
