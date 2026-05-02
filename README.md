@@ -94,3 +94,72 @@ receptors, complementing the kinase inhibitor selectivity paper
 formal desiderata for binding-based selectivity metrics. A natural extension
 would apply those desiderata to the full serotonin receptor family binding
 profiles of psychedelic compounds.
+
+## Serotonin receptor selectivity framework (Option A)
+
+**Script:** `analysis/09_full_serotonin_family.py`, `analysis/10_selectivity_framework.py`  
+**Data:** ChEMBL Ki values for 13 human serotonin receptors (5HT3B excluded — no data)
+
+This analysis applies the selectivity definition framework from the companion
+kinase selectivity paper to the full serotonin receptor family, asking whether
+the same definitional instabilities appear in receptor pharmacology.
+
+### Data
+
+Ki data downloaded from ChEMBL for all human serotonin receptors:
+
+| Receptor | ChEMBL ID | Compounds |
+|----------|-----------|-----------|
+| 5-HT1A | CHEMBL214 | 4,859 |
+| 5-HT1B | CHEMBL1898 | 751 |
+| 5-HT1D | CHEMBL1983 | 916 |
+| 5-HT1E | CHEMBL2182 | 72 |
+| 5-HT1F | CHEMBL1805 | 113 |
+| 5-HT2A | CHEMBL224 | 4,602 |
+| 5-HT2B | CHEMBL1833 | 1,554 |
+| 5-HT2C | CHEMBL225 | 2,526 |
+| 5-HT3A | CHEMBL1899 | 579 |
+| 5-HT4 | CHEMBL1875 | 424 |
+| 5-HT5A | CHEMBL3426 | 344 |
+| 5-HT6 | CHEMBL3371 | 3,782 |
+| 5-HT7 | CHEMBL3155 | 2,633 |
+
+Total: 13,584 unique compounds. 297 compounds have Ki values at 5-HT2A,
+5-HT2B, and at least 2 other receptors — used for selectivity analysis.
+
+### Selectivity scores for psilocin
+
+| Metric | Value | Interpretation |
+|--------|-------|----------------|
+| S-score | 1.000 | All 10 tested receptors above threshold |
+| Entropy | 3.288 bits | High — distributed response |
+| Gini | 0.118 | Low — binding spread uniformly |
+| Ratio | 1.080 | Top receptor barely stronger than second |
+
+Psilocin binds all tested serotonin receptors with similar affinity (pKi
+6.5-8.3). Its highest affinity is for 5-HT2B (pKi=8.34) and 5-HT1D
+(pKi=7.72), not 5-HT2A (pKi=6.72). By all four definitions, psilocin is
+a non-selective serotonergic compound — inconsistent with its common
+description as a "5-HT2A agonist."
+
+### Correlations between selectivity definitions
+
+| | S-score | Entropy | Gini | Ratio |
+|-|---------|---------|------|-------|
+| S-score | 1.000 | -0.063 | -0.682 | -0.158 |
+| Entropy | -0.063 | 1.000 | 0.100 | -0.047 |
+| Gini | -0.682 | 0.100 | 1.000 | 0.313 |
+| Ratio | -0.158 | -0.047 | 0.313 | 1.000 |
+
+### Key finding
+
+Entropy is uncorrelated with all other definitions (r ≈ 0), while S-score
+and Gini are strongly anti-correlated (r = -0.682). This reproduces the
+two-cluster structure identified in the kinase selectivity paper — one cluster
+of mutually consistent definitions (S-score, Gini, ratio) and entropy as an
+outlier measuring something categorically different.
+
+This finding generalizes the kinase paper result to serotonin receptor
+pharmacology, suggesting that entropy's divergence from other selectivity
+definitions is a property of the mathematical definition, not an artifact
+of kinase binding data specifically.
