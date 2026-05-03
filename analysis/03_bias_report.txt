@@ -1,0 +1,35 @@
+
+5-HT2A Bias Factor Summary - ChEMBL Core Dataset
+=================================================
+
+Compounds with computable bias factor: 29 / 29
+
+Bias direction (threshold |log10 ratio| > 0.3, i.e. >2x preference):
+bias_class
+balanced       20
+barr-biased     5
+Gq-biased       4
+
+Log bias statistics:
+  Min:  -0.596
+  Max:  0.673
+  Mean: -0.007
+  Std:  0.325
+
+By paper:
+paper                                            bias_class 
+25CN-NBOH (J Med Chem 2022)                      balanced        6
+                                                 barr-biased     5
+                                                 Gq-biased       1
+Heterocyclic Gq-biased (ACS Med Chem Lett 2023)  balanced       14
+                                                 Gq-biased       3
+
+Note on EC50:
+  The two source papers use different reference agonists (LSD vs serotonin),
+  making EC50-based transduction ratios incomparable across papers without
+  re-normalisation. Emax ratio is used as a more robust alternative.
+
+Next steps:
+  - Supplement with literature data to reach ~80-100 compounds
+  - Compute Morgan fingerprints for all compounds
+  - Build QSAR model predicting log_bias from molecular structure

@@ -1,0 +1,61 @@
+
+Within-Series QSAR — LOO-CV Results with Sensitivity Analysis
+==============================================================
+Each model trained and evaluated within one chemical series only,
+eliminating inter-series scaffold confounding.
+
+
+Series: 25CN-NBOH  (n=12, 148 informative bits)
+  Log bias range: -0.305 to 0.673
+
+  Model              R²      MAE  Pearson r        p-value
+  --------------------------------------------------------
+  Ridge           0.328    0.208      0.633       2.70e-02
+  Lasso           0.215    0.203      0.522       8.19e-02
+  RF              0.131    0.211      0.365       2.44e-01 (unreliable at n<15)
+  GradBoost       0.354    0.170      0.613       3.41e-02 (unreliable at n<15)
+
+  Best linear model: Ridge  R²=0.328
+
+  Sensitivity analysis (excl. SEROTONIN):
+  n=11  Model              R²      MAE  Pearson r        p-value
+  --------------------------------------------------------
+                Ridge           0.024    0.220      0.433       1.84e-01
+                Lasso          -0.030    0.193      0.367       2.67e-01
+                RF              0.078    0.187      0.326       3.28e-01 (unreliable at n<15)
+                GradBoost      -0.056    0.183      0.378       2.52e-01 (unreliable at n<15)
+
+  Ridge R² change after removing outlier: -0.304
+
+Series: Heterocyclic  (n=17, 123 informative bits)
+  Log bias range: -0.596 to 0.036
+
+  Model              R²      MAE  Pearson r        p-value
+  --------------------------------------------------------
+  Ridge           0.413    0.082      0.644       5.24e-03
+  Lasso           0.408    0.087      0.653       4.45e-03
+  RF              0.302    0.094      0.558       2.00e-02
+  GradBoost       0.154    0.108      0.421       9.22e-02
+
+  Best linear model: Ridge  R²=0.413
+
+Series: Pottie2023  (n=17, 106 informative bits)
+  Log bias range: 0.185 to 0.864
+
+  Model              R²      MAE  Pearson r        p-value
+  --------------------------------------------------------
+  Ridge           0.452    0.089      0.727       9.36e-04
+  Lasso           0.019    0.102      0.327       2.00e-01
+  RF              0.273    0.101      0.540       2.54e-02
+  GradBoost       0.514    0.077      0.853       1.32e-05
+
+  Best linear model: Ridge  R²=0.452
+
+Interpretation:
+  R² > 0.5 : meaningful within-series SAR signal
+  R² 0.2-0.5: weak but present signal
+  R² < 0.2 : insufficient signal at this n
+
+Note: With n=12-17, LOO-CV R² estimates have high variance.
+A ~0.1 difference between models is not meaningful.
+The key question is whether R² is clearly above zero.

@@ -1,0 +1,201 @@
+assay_chembl_id,assay_description,document_chembl_id,n_records,pathway
+CHEMBL5135838,Agonist activity at human 5HT2A receptor stably expressed in Flp-In-T-REx-293 cells assessed as increase in Gq-mediated calcium flux by Fluo-4 direct dye based FLIPR Tetra assay,CHEMBL5131517,202,gq
+CHEMBL5135839,Agonist activity at human 5HT2A receptor stably expressed in Flp-In-T-REx-293 cells assessed as maximal Gq-mediated calcium flux by Fluo-4 direct dye based FLIPR Tetra assay relative to control,CHEMBL5131517,98,gq
+CHEMBL4681097,Agonist activity at human 5-HT2A receptor expressed in human Flp-In-293 cells assessed as induction of calcium flux incubated for 1 hr by Fluo-4 direct dye based FLIPR assay,CHEMBL4680082,88,gq
+CHEMBL3773632,Agonist activity at recombinant human 5HT2A receptor expressed in Flp-In-293 cells assessed as calcium flux by FLIPR assay,CHEMBL3769385,88,gq
+CHEMBL957591,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as calcium flux by FLIPR assay,CHEMBL1153382,72,gq
+CHEMBL957590,Agonist activity at human 5HT2A receptor expressed in HEK293 cells at 10 uM assessed as calcium flux by FLIPR assay relative to serotonin,CHEMBL1153382,72,gq
+CHEMBL918968,Activity at human 5HT2A expressed in HEK293E cells assessed as elevation of intracellular calcium by 384-FLIPR assay,CHEMBL1142951,48,gq
+CHEMBL918971,Activity at human 5HT2A expressed in HEK293E cells assessed as elevation of intracellular calcium by 384-FLIPR assay relative to serotonin,CHEMBL1142951,46,gq
+CHEMBL4681099,Agonist activity at human 5-HT2A receptor expressed in human Flp-In-293 cells assessed as induction of calcium flux by measuring log(Emax/EC50) incubated for 1 hr by Fluo-4 direct dye based FLIPR assay,CHEMBL4680082,44,gq
+CHEMBL4681098,Agonist activity at human 5-HT2A receptor expressed in human Flp-In-293 cells assessed as induction of calcium flux incubated for 1 hr by Fluo-4 direct dye based FLIPR assay relative to 5-HT,CHEMBL4680082,44,gq
+CHEMBL2400227,Agonist activity at human 5-HT2A receptor expressed in HEK293E cells assessed as increase in intracellular calcium level by FLIPR assay,CHEMBL2396562,40,gq
+CHEMBL2343530,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as induction of intracellular calcium release measured for 90 secs by fluorescence assay,CHEMBL2331121,40,gq
+CHEMBL5509697,Agonist activity at human 5-HT2AR expressed in HEK293 cells incubated upto 90 sec by Fluo-4 AM dye based Ca2+ imaging assay,CHEMBL5506019,40,gq
+CHEMBL1287094,Antagonist activity at human 5HT2A receptor expressed in HEK cells assessed as inhibition of intracellular calcium accumulation by aequorin assay,CHEMBL1275351,38,gq
+CHEMBL5135453,Antagonist activity at 5-HT2A receptor (unknown origin) expressed in CHO-K1 cells assessed as reduction in intracellular Ca2+ mobilization incubated for 15 mins by FLIPR assay,CHEMBL5131502,38,gq
+CHEMBL4045106,Antagonist activity at 5-HT2A receptor (unknown origin) after 10 mins by calcium 5 dye based FLIPR assay,CHEMBL4043141,37,gq
+CHEMBL926598,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as intracellular IP3 accumulation,CHEMBL1140712,37,gq
+CHEMBL1074221,Activity at human 5HT2A receptor expressed in HEK293 cells assessed as [3H]inositol phosphate production by scintillation counting,CHEMBL1157565,37,gq
+CHEMBL889875,Agonist activity at 5HT2A receptor expressed in HEK293 cells assessed as intracellular calcium mobilisation up to 10 uM,CHEMBL1146272,35,gq
+CHEMBL4627009,Antagonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as inhibition of 5HT-induced intracellular Ca2+ mobilization incubated for 1 hr by Fluo-4 dye based fluorescence assay,CHEMBL4622985,34,gq
+CHEMBL837403,Effective concentration towards 5-hydroxytryptamine 2A receptors transfected in HEK293 cells was determined by measuring [3H]phosphoinositol release,CHEMBL1142018,33,gq
+CHEMBL5360446,Agonist activity at human 5-HT2A receptor expressed in CHO cells measured after 140 secs by Fluo-4 dye based calcium mobilization assay,CHEMBL5357083,31,gq
+CHEMBL4254803,Antagonist activity at 5-HT2A receptor (unknown origin) after 10 mins by calcium 5 dye based FLIPR assay,CHEMBL4251643,30,gq
+CHEMBL3774007,Agonist activity at human 5HT2A receptor expressed in Flp-In-293 cells assessed as calcium flux by FLIPR assay relative to 5-HT,CHEMBL3769385,27,gq
+CHEMBL3806802,Antagonistic activity at human 5-HT2A receptor assessed as calcium flux after 10 mins by FLIPR assay,CHEMBL3804825,27,gq
+CHEMBL3377153,Agonist activity at 5HT2A receptor (unknown origin) by cell based calcium mobilization assay relative to control,CHEMBL3351908,26,gq
+CHEMBL3377152,Agonist activity at 5HT2A receptor (unknown origin) by cell based calcium mobilization assay,CHEMBL3351908,26,gq
+CHEMBL5509698,Agonist activity at human 5-HT2AR expressed in HEK293 cells assessed as maximal response incubated upto 90 sec by Fluo-4 AM dye based Ca2+ imaging assay relative to 5-HT,CHEMBL5506019,25,gq
+CHEMBL3420137,Agonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as calcium flux at 10 uM by FLIPR assay,CHEMBL3414471,23,gq
+CHEMBL4188000,Antagonistic activity at human 5-HT2A receptor assessed as calcium flux after 10 mins by FLIPR assay,CHEMBL4184238,23,gq
+CHEMBL2025262,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as calcium flux measured every sec for 3 mins by FLIPR assay,CHEMBL2021856,22,gq
+CHEMBL1831392,Antagonist activity at human 5-HT2A receptor assessed as inhibition of intracellular calcium mobilization by FLIPR assay,CHEMBL1828541,22,gq
+CHEMBL5547428,Agonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as IP2 production measured after 30 mins incubation by HTRF assay,CHEMBL5543140,22,gq
+CHEMBL2346333,Agonist activity at 5-HT2A receptor in HEK293E cells assessed as elevation of intracellular calcium level measured for 90 secs by FLIPR assay,CHEMBL2331262,21,gq
+CHEMBL889898,Agonist activity at human 5HT2A receptor expressed in HEK293 cells by measuring intracellular calcium mobilization upto 10 uM,CHEMBL1146275,20,gq
+CHEMBL2025263,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as calcium flux measured every sec for 3 mins by FLIPR assay relative to 5HT,CHEMBL2021856,19,gq
+CHEMBL3373159,Agonist activity at human 5HT2A expressed in HEK293 cells at 10 uM by calcium mobilization assay,CHEMBL3297719,17,gq
+CHEMBL4681100,Agonist activity at human 5-HT2A receptor expressed in human Flp-In-293 cells assessed as induction of calcium flux up to 10 uM incubated for 1 hr by Fluo-4 direct dye based FLIPR assay,CHEMBL4680082,17,gq
+CHEMBL1648602,Agonist activity at human recombinant 5HT2A receptor expressed in CHOK1 cells assessed as induction of intracellular calcium release by FLIPR assay relative to 5-HT,CHEMBL1641370,17,gq
+CHEMBL1648601,Agonist activity at human recombinant 5HT2A receptor expressed in CHOK1 cells assessed as induction of intracellular calcium release by FLIPR assay,CHEMBL1641370,17,gq
+CHEMBL5375652,Agonist activity at 5-HT2A (unknown origin) expressed in HEK293T cells co-transfected with RLuc-fused Galphaq/GFP2/Gy9/Gbeta3 assessed as Gaq hetero trimeric G protein activation at 0.1 to 10 uM incubated for 30 mins using coelenterazine 400a as a substrate by BRET assay relative to control,CHEMBL5370684,17,gq
+CHEMBL5375653,Agonist activity at 5-HT2A (unknown origin) expressed in HEK293T cells co-transfected with RLuc-fused Galphaq/GFP2/Gy9/Gbeta3 assessed as Gaq hetero trimeric G protein activation incubated for 30 mins using coelenterazine 400a as a substrate by BRET assay,CHEMBL5370684,17,gq
+CHEMBL4222628,Antagonist activity at human recombinant 5-HT2A receptor expressed in CHOK1 cells assessed as inhibition of serotonin-induced calcium release preincubated for 15 mins followed by 5-HT addition measured every 1.7 secs for 60 secs by calcium 4 dye-based FLIPR assay,CHEMBL4219158,16,gq
+CHEMBL3774009,Agonist activity at human 5HT2A receptor expressed in Flp-In-293 cells assessed as calcium flux at 10 uM by FLIPR assay relative to 5-HT,CHEMBL3769385,16,gq
+CHEMBL1227642,Antagonist activity at human 5HT2A receptor expressed in HEK cells assessed as intracellular calcium luminescence by aequorin assay,CHEMBL1221290,16,gq
+CHEMBL4615083,Antagonist activity at 5HT2A receptor (unknown origin) expressed in HEK293 cells assessed as inhibition of serotonin hydrochloride-induced calcium flux preincubated for 1 hr followed by serotonin hydrochloride addition by calcium 6 dye based FLIPR assay,CHEMBL4613264,15,gq
+CHEMBL3420136,Agonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as calcium flux by FLIPR assay relative to 5-HT,CHEMBL3414471,15,gq
+CHEMBL3420135,Agonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as calcium flux by FLIPR assay,CHEMBL3414471,15,gq
+CHEMBL3636004,Antagonist activity at human 5-HT2A receptor assessed as inhibition of 5-HT-mediated internal calcium mobilization by FLIPR assay,CHEMBL3632459,15,gq
+CHEMBL1039801,Antagonist activity at human 5HT2A receptor expressed in CHO cells assessed as inhibition of (R)-(-)-DOI hydrochloride-induced intracellular calcium mobilization by FLIPR assay,CHEMBL1152674,15,gq
+CHEMBL4615082,Antagonist activity at 5HT2A receptor (unknown origin) expressed in HEK293 cells assessed as inhibition of serotonin hydrochloride-induced calcium flux at 1 uM preincubated for 1 hr followed by serotonin hydrochloride addition by calcium 6 dye based FLIPR assay relative to control,CHEMBL4613264,15,gq
+CHEMBL5364596,Antagonist activity at 5-HT2A receptor in HEK293 cells assessed as calcium mobilisation by Fluo-4 dye based assay,CHEMBL5360648,14,gq
+CHEMBL1046455,Agonist activity at human recombinant 5HT2A receptor expressed in Swiss mouse 3T3 cells assessed as induction of calcium mobilization by FLIPR assay,CHEMBL1156026,14,gq
+CHEMBL2346330,Intrinsic activity at 5-HT2A receptor in HEK293E cells assessed as elevation of intracellular calcium level measured for 90 secs by FLIPR assay relative to serotonin,CHEMBL2331262,14,gq
+CHEMBL2343044,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as accumulation of IP1 incubated for 1 hr at 37 degC followed by 15 mins at RT by TR-FRET assay,CHEMBL2331121,12,gq
+CHEMBL4131901,Antagonist activity at recombinant human 5-HT2A assessed as inhibition of agonist-induced effect at 10 uM by aequorin reporter based assay,CHEMBL4130363,12,gq
+CHEMBL5120416,Agonist activity at human 5HT2A receptor transfected in HEK293T cells assessed as mini Galphaq recruitment measured for 2 hrs by luminescent assay,CHEMBL5113537,12,gq
+CHEMBL4000283,Antagonist activity at human 5-HT2A receptor expressed in F1pIn CHO cells assessed as inhibition of serotonin-induced myo-inositol 1 phosphate accumulation after 1 hr by HTRF assay,CHEMBL4000143,12,gq
+CHEMBL1049777,Agonist activity at human recombinant 5HT2A receptor transfected in CHO K1 cells assessed as calcium mobilisation at 10 uM by FLIPR assay,CHEMBL1155998,12,gq
+CHEMBL4202216,Agonist activity at recombinant 5-HT2A receptor (unknown origin) expressed in HEK293 cells assessed as increase in [3H]-inositol phosphate accumulation by scintillation counting method,CHEMBL4196226,12,gq
+CHEMBL4131900,Agonist activity at recombinant human 5-HT2A at 10 uM by aequorin reporter based assay relative to agonist,CHEMBL4130363,12,gq
+CHEMBL5120417,Agonist activity at human 5HT2A receptor transfected in HEK293T cells assessed as mini Galphaq recruitment measured for 2 hrs by luminescent assay relative to control,CHEMBL5113537,12,gq
+CHEMBL5362788,Antagonist activity at human 5-HT2A expressed in CHO-K1 cells assessed as inhibition of 5HT stimulated inositol phosphate production preincubated for 10 mins followed by serotonin addition and measured after 20 mins by HTRF based assay,CHEMBL5360565,12,gq
+CHEMBL5135942,Agonist activity at human 5-HT2A receptor expressed in cells assessed as increase in calcium mobilization by Calcium-6 dye based FLIPR assay,CHEMBL5131522,11,gq
+CHEMBL936735,Intrinsic activity at human 5HT2A receptor expressed in CHO cells assessed as myo-[3H]inositol turnover relative to 5-hydroxytryptamine,CHEMBL1144676,11,gq
+CHEMBL2343052,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as induction of intracellular calcium release at 1 mM measured for 90 secs by fluorescence assay,CHEMBL2331121,11,gq
+CHEMBL5352733,Inhibition of 5HT2A receptor (unknown origin) expressed in HEK293 cells at 1 uM by FLIPR Calcium 6 dye based assay relative to control,CHEMBL5352387,11,gq
+CHEMBL2342582,Antagonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as inhibition of 5HT-induced intracellular calcium release at 1 mM measured for 90 secs by fluorescence assay,CHEMBL2331121,11,gq
+CHEMBL3240636,Intrinsic agonist activity at human 5-HT2A receptor assessed as mobilization of internal calcium at 10 uM by FLIPR assay,CHEMBL3232860,11,gq
+CHEMBL4195146,Antagonist activity at human 5-HT2A receptor expressed in CHO-K1 cells co-expressing Galpha16 assessed as decrease in serotonin calcium mobilization preincubated for 30 mins followed by serotonin challenge measured for 30 secs by aequorin-derived luminescence assay,CHEMBL4190389,10,gq
+CHEMBL4368231,Antagonist activity at human 5HT2A receptor expressed in CHOK1 cells assessed as inhibition of 5-HT induced inositol phosphate production incubated for 24 hrs followed by 5-HT addition by HTRF assay,CHEMBL4364325,10,gq
+CHEMBL5046642,Antagonist activity at human 5-HT2A receptor expressed in human recombinant CHO-K1 cells co-expressing G protein alpha16 incubated for 1 hr by cellular aequorin-based functional assay,CHEMBL5046222,10,gq
+CHEMBL5335706,Positive allosteric modulator activity human 5-HT2A receptor expressed in CHO cells assessed as 5-HT evoked maximal calcium release by measuring RFU at 1 nM pretreated 15 mins before addition of 5-HT by FLIPR assay (Rvb = 100%),CHEMBL5331147,10,gq
+CHEMBL5360449,Agonist activity at human 5-HT2A receptor expressed in CHO cells measured after 140 secs by Fluo-4 dye based calcium mobilization assay relative to control,CHEMBL5357083,10,gq
+CHEMBL5364601,Agonist activity at 5-HT2A receptor in HEK293 cells assessed as calcium mobilisation by Fluo-4 dye based assay,CHEMBL5360648,10,gq
+CHEMBL3240637,Antagonist activity at human 5-HT2A receptor assessed as inhibition of 5-HT-induced mobilization of internal calcium at 10 uM by FLIPR assay,CHEMBL3232860,10,gq
+CHEMBL2396133,Antagonist activity at serotonin-activated human recombinant 5HT-2A receptor expressed in HEK293 cells assessed as decrease in intracellular calcium level after 5 mins measured for 1 min by fluorescence assay,CHEMBL2390866,10,gq
+CHEMBL862277,Induction of 5HT2A receptor mediated increase in intracellular calcium concentration in CHO cells,CHEMBL1148668,8,gq
+CHEMBL2343054,Antagonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as inhibition of 5HT-induced intracellular calcium release measured for 90 secs by fluorescence assay,CHEMBL2331121,8,gq
+CHEMBL2342584,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as induction of intracellular calcium release by fluorescence assay relative to 5HT,CHEMBL2331121,8,gq
+CHEMBL5628134,Antagonist activity at human 5HT2A receptor expressed in human Flp-In-T-REx-293 cells assessed as equilibrium binding constant incubated for 1 hr by calcium flux assay,CHEMBL5625223,8,gq
+CHEMBL934035,Antagonist activity at human recombinant 5HT2A receptor expressed in mouse NIH3T3 cells assessed as increase in calcium levels,CHEMBL1141597,8,gq
+CHEMBL980679,Apparent affinity to human 5HT2A receptor expressed in serotonin-stimulated CHOK1 cells by calcium mobilization assay,CHEMBL1138595,8,gq
+CHEMBL4708968,Antagonist activity at 5-HT2A receptor (unknown origin) assessed as decrease in intracellular calcium flux preincubated with calcium followed by compound challenge and measured after 10 mins by FLIPR method,CHEMBL4706522,7,gq
+CHEMBL5547429,Agonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as maximal IP2 production measured after 30 mins incubation by HTRF assay relative to control,CHEMBL5543140,7,gq
+CHEMBL5611626,Agonist activity at 5-HT2A (unknown origin) expressed in HEK293 cells assessed as increase in calcium influx by measuring maximal efficacy incubated for 50 mins by Fluo-4 dye based FLIPR assay relative to control,CHEMBL5608248,7,gq
+CHEMBL4195145,Antagonist activity at human 5-HT2A receptor expressed in CHO-K1 cells co-expressing Galpha16 assessed as decrease in serotonin-induced calcium mobilization preincubated for 30 mins followed by serotonin challenge measured for 30 secs by aequorin-derived luminescence assay relative to control,CHEMBL4190389,7,gq
+CHEMBL5611625,Agonist activity at 5-HT2A (unknown origin) expressed in HEK293 cells assessed as increase in calcium influx incubated for 50 mins by Fluo-4 dye based FLIPR assay,CHEMBL5608248,7,gq
+CHEMBL4842292,Agonist activity at 5HT2A receptor (unknown origin) expressed in HEK293 cells by FLIPR calcium flux assay,CHEMBL4840380,6,gq
+CHEMBL4842294,Agonist activity at 5HT2A receptor (unknown origin) expressed in HEK293 cells assessed as maximal effect by FLIPR calcium flux assay relative to control,CHEMBL4840380,6,gq
+CHEMBL5038452,Agonist activity at 5-HT2A receptor (unknown origin) by calcium flux assay,CHEMBL5036377,6,gq
+CHEMBL4605029,Agonist activity at human 5-HT2A receptor expressed in Flp-In T-REx 293 cells assessed as induction of Gq-mediated calcium flux incubated for 1 hr by Flou4-AM dye based FLIPR assay,CHEMBL4602692,6,gq
+CHEMBL2395631,Agonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as increase in calcium mobilization by FLIPR assay,CHEMBL2390840,6,gq
+CHEMBL5149890,Agonist activity at human 5-HT2A receptor assessed as activation of calcium mobilization incubated for 2 mins by Calcium-6 dye based FLIPR assay,CHEMBL5143755,6,gq
+CHEMBL4195143,Agonist activity at human 5-HT2A receptor expressed in CHO-K1 cells co-expressing Galpha16 assessed as increase in calcium mobilization measured for 30 secs by aequorin-derived luminescence assay relative to alpha-methylserotonin,CHEMBL4190389,6,gq
+CHEMBL5362789,Antagonist activity at human 5-HT2A expressed in CHO-K1 cells assessed as inhibition of 5HT stimulated inositol phosphate production preincubated for 10 mins followed by serotonin addition and measured after 20 mins by HTRF based assay relative to 5-HT,CHEMBL5360565,6,gq
+CHEMBL883722,Effective concentration required for accumulation of [3H]inositol phosphate in cells stably expressing human 5-hydroxytryptamine 2A receptor determined by phosphoinositide hydrolysis assay,CHEMBL1142853,5,gq
+CHEMBL4368230,Antagonist activity at human 5HT2A receptor expressed in CHOK1 cells assessed as maximal inhibition of 5-HT induced inositol phosphate production incubated for 24 hrs followed by 5-HT addition by HTRF assay relative to control,CHEMBL4364325,5,gq
+CHEMBL2342580,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as accumulation of IP1 incubated for 1 hr at 37 degC followed by 15 mins at RT by TR-FRET assay relative to 5HT,CHEMBL2331121,5,gq
+CHEMBL5359171,Partial agonist activity at human 5-HT2AR expressed in human Flp-In-T-REx-293 cells assessed as increase in calcium flux upto 10 uM incubated for 60 mins followed by incubation for 30 mins in dark by Flou-4 dye based FLIPR assay,CHEMBL5357013,5,gq
+CHEMBL4685408,Antagonist activity at recombinant human Ga16-coupled 5HT2A receptor expressed in CHO-K1 cells assessed as inhibition of alpha-methylserotonin-induced calcium mobilization preincubated for 15 to 30 mins followed by alpha-methylserotonin addition and measured for 30 to 60 secs by aequorin based luminescence assay,CHEMBL4680205,5,gq
+CHEMBL4685409,Antagonist activity at recombinant human Ga16-coupled 5HT2A receptor expressed in CHO-K1 cells assessed as inhibition of serotonin-induced calcium mobilization preincubated for 15 to 30 mins followed by serotonin addition and measured for 30 to 60 secs by aequorin based luminescence assay,CHEMBL4680205,5,gq
+CHEMBL921969,Intrinsic activity at human cloned 5HT2A receptor expressed in CHO cells assessed as maximal stimulation of 10 uM 5HT-induced myo-[3H]inositol hydrolysis,CHEMBL1143993,4,gq
+CHEMBL3750146,Antagonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as inhibition of serotonin-induced inositol-1-phosphate accumulation at 1 uM after 30 mins by HTRF assay,CHEMBL3745654,4,gq
+CHEMBL3863879,Antagonist activity at human 5-HT2AR expressed in Flp-In HEK cells assessed as inhibition of serotonin induced calcium mobilization at 10 uM preincubated for 5 to 10 mins followed by serotonin addition by Fluo-4 dye based FLIPR assay relative to control,CHEMBL3862033,4,gq
+CHEMBL617051,Functional agonist activity of compound was determined by fluorescence-based assay measuring intracellular calcium mobilization for 5-HT2a receptor cell line,CHEMBL1133355,4,gq
+CHEMBL5548747,Antagonist activity at recombinant human 5-HT2A expressed in CHO-K1 cells assessed as inhibition of alpha-Me-5-HT induced increase in IP1 accumulation incubated for 60 mins by HTRF ASSAY,CHEMBL5543160,4,gq
+CHEMBL921966,Agonist activity at human cloned 5HT2A receptor expressed in CHO cells assessed as myo-[3H]inositol hydrolysis,CHEMBL1143993,4,gq
+CHEMBL5352734,Inhibition of 5HT2A receptor (unknown origin) expressed in HEK293 cells by FLIPR Calcium 6 dye based assay,CHEMBL5352387,4,gq
+CHEMBL2343049,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as induction of intracellular calcium release up to 1000 uM measured up to 90 secs by fluorescence assay,CHEMBL2331121,4,gq
+CHEMBL4222629,Agonist activity at human recombinant 5-HT2A receptor expressed in CHOK1 cells assessed as induction of calcium release incubated for 15 mins measured every 1.7 secs for 60 secs by calcium 4 dye-based FLIPR assay,CHEMBL4219158,4,gq
+CHEMBL3106888,Competitive antagonist activity at human 5-HT2A receptor expressed in CHO cells assessed as inhibition of inositol phosphate release after 30 mins by HTRF assay,CHEMBL3102756,3,gq
+CHEMBL3738655,Agonist activity at human 5-HT2A receptor expressed in CHO-K1 cells assessed as calcium level by FDSS assay,CHEMBL3734721,3,gq
+CHEMBL4368233,Antagonist activity at human 5HT2A receptor expressed in CHOK1 cells assessed as inhibition of inositol phosphate production incubated for 24 hrs followed by 5-HT addition by Cheng-Prusoff equation analysis,CHEMBL4364325,3,gq
+CHEMBL3738119,Antagonist activity at human 5-HT2A receptor expressed in CHO-K1 cells assessed as seretonin-induced calcium level by FDSS assay,CHEMBL3734721,3,gq
+CHEMBL5360141,Positive allosteric modulation of human 5-HT2A receptor stably expressed in CHO cells assessed as modulation of 5-HT induced intracellular Ca2+ release by measuring maximal efficacy at 1 uM preincubated for 15 mins followed by 5-HT addition and measured by FLIPR analysis relative to control,CHEMBL5357065,3,gq
+CHEMBL4139211,Antagonist activity at 5-HT2A receptor in human MCF7 cells assessed as inhibition of serotonin-induced calcium flux at 5 uM measured at 5 secs time interval for 2 mins by Fluo-4AM dye based fluorescence microscopic analysis,CHEMBL4138090,3,gq
+CHEMBL5135529,"Potency index, ratio of pimavanserin IC50 to test compound IC50 for antagonist activity at 5-HT2A receptor (unknown origin) expressed in CHO-K1 cells assessed as reduction in intracellular Ca2+ mobilization incubated for 15 mins by FLIPR assay",CHEMBL5131502,3,gq
+CHEMBL5509699,Agonist activity at human 5-HT2AR expressed in HEK293 cells upto 50 uM incubated upto 90 sec by Fluo-4 AM dye based Ca2+ imaging assay,CHEMBL5506019,3,gq
+CHEMBL1831391,Agonist activity at human 5-HT2A receptor assessed as intracellular calcium mobilization at 10 uM by FLIPR assay,CHEMBL1828541,3,gq
+CHEMBL5548746,Agonist activity at recombinant human 5-HT2A expressed in CHO-K1 cells assessed as increase in IP1 accumulation incubated for 60 mins by HTRF assay,CHEMBL5543160,2,gq
+CHEMBL5324941,Antagonist activity at 5-HT2A receptor (unknown origin) by calcium flux assay,CHEMBL5321291,2,gq
+CHEMBL5509706,Partial agonist activity at human 5-HT2AR expressed in HEK293 cells assessed as maximal response incubated upto 90 sec by Fluo-4 AM dye based Ca2+ imaging assay relative to 5-HT,CHEMBL5506019,2,gq
+CHEMBL5324940,Agonist activity at 5-HT2A receptor (unknown origin) by calcium flux assay,CHEMBL5321291,2,gq
+CHEMBL5359169,Partial agonist activity at human 5-HT2AR expressed in human Flp-In-T-REx-293 cells assessed as increase in calcium flux incubated for 60 mins followed by incubation for 30 mins in dark by Flou-4 dye based FLIPR assay,CHEMBL5357013,2,gq
+CHEMBL5324942,Agonist activity at 5-HT2A receptor (unknown origin) by calcium flux assay relative to control,CHEMBL5321291,2,gq
+CHEMBL5509704,Partial agonist activity at human 5-HT2AR expressed in HEK293 cells incubated upto 90 sec by Fluo-4 AM dye based Ca2+ imaging assay,CHEMBL5506019,2,gq
+CHEMBL5324943,Antagonist activity at 5-HT2A receptor (unknown origin) by calcium flux assay relative to control,CHEMBL5321291,2,gq
+CHEMBL5553668,Agonist activity at 5-HT2A receptor (unknown origin) assessed as IP1 accumulation at 0.0004 to 10 uM incubated for 1 hr by HTRF method,CHEMBL5550195,2,gq
+CHEMBL4709861,Antagonist activity at human 5HT2A receptor expressed in CHO-K1 cells assessed as inhibition of 5HT-induced calcium flux incubated for 60 mins at 37 degC followed by 15 mins incubation at room temperature and subsequent 5HT addition by calcium 4 dye based FLIPR assay,CHEMBL4706549,2,gq
+CHEMBL882950,Antagonistic activity against accumulation of [3H]-inositol phosphate in cells stably expressing human 5-hydroxytryptamine 2A receptor determined by phosphoinositide hydrolysis assay,CHEMBL1142853,2,gq
+CHEMBL3872782,Antagonistic activity at 5-HT2A receptor (unknown origin) expressed in CHOK1 cells co-expressing G-alpha 15 assessed as inhibition of serotonin-induced calcium flux by Fluo-4 based FLIPR assay,CHEMBL3872208,2,gq
+CHEMBL3872781,Antagonistic activity at 5-HT2A receptor (unknown origin) expressed in CHOK1 cells co-expressing G-alpha 15 assessed as inhibition of serotonin-induced calcium flux at 10 uM by Fluo-4 dye based FLIPR assay relative to control,CHEMBL3872208,2,gq
+CHEMBL3756320,Antagonist activity at human 5-HT2A receptor expressed in CHO-K1 cells assessed as inhibition of 5HT-induced Ca2+ release at 10 uM by fluorometry assay,CHEMBL3751661,2,gq
+CHEMBL862029,Efficacy against human recombinant 5HT2A receptor induced intracellular calcium mobilization in CHO cells by FLIPR,CHEMBL1139653,2,gq
+CHEMBL3592666,Antagonist activity at human recombinant 5HT2A receptor expressed in HEK293 cells assessed as inhibition of serotonin-induced intracellular IP1 release at 1 uM by HTRF assay,CHEMBL3588770,2,gq
+CHEMBL3592665,Agonist activity at human recombinant 5HT2A receptor expressed in HEK293 cells assessed as intracellular IP1 release at 1 uM by HTRF assay,CHEMBL3588770,2,gq
+CHEMBL3295407,Antagonist activity at human recombinant 5-HT2A receptor assessed as inhibition of serotonin-induced inositol phosphate accumulation,CHEMBL3286108,2,gq
+CHEMBL4229843,Antagonist activity at human 5-HT2AR expressed in HEK293 cells assessed as inhibition of serotonin-induced calcium flux after 30 mins by HTRF method,CHEMBL4229332,2,gq
+CHEMBL2395632,Agonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as increase in calcium mobilization by FLIPR assay relative to 5-HT,CHEMBL2390840,2,gq
+CHEMBL2343050,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as induction of intracellular calcium release at 100 to 1000 uM by fluorescence assay,CHEMBL2331121,2,gq
+CHEMBL2342578,Ratio of EC50 for human 5HT2A receptor by calcium fiux-based fluorescence assay to EC50 for 5HT2A by IP1 accumulation-based TR-FRET assay,CHEMBL2331121,2,gq
+CHEMBL1119160,Inverse agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as inhibition of inositol phosphate accumulation,CHEMBL1155506,2,gq
+CHEMBL980680,Antagonist activity at human 5HT2A receptor expressed in EC80 serotonin-stimulated CHOK1 cells by calcium mobilization assay,CHEMBL1138595,2,gq
+CHEMBL617052,Functional agonist activity of compound was determined by fluorescence-based assay measuring intracellular calcium mobilization for 5-HT2a receptor cell line; no data,CHEMBL1133355,2,gq
+CHEMBL4229986,Antagonist activity at human 5-HT2AR expressed in HEK293 cells assessed as inhibition of serotonin-induced IP1 accumulation after 60 mins by HTRF method,CHEMBL4229332,2,gq
+CHEMBL4605030,Agonist activity at human 5-HT2A receptor expressed in Flp-In T-REx 293 cells assessed as induction of Gq-mediated calcium flux incubated for 1 hr by Flou4-AM dye based FLIPR assay relative to serotonin,CHEMBL4602692,2,gq
+CHEMBL5553669,Antagonist activity at 5-HT2A receptor (unknown origin) assessed as inhibition of 5-HT stimulated IP1 production incubated for 1 hr by HTRF method,CHEMBL5550195,2,gq
+CHEMBL5553670,Antagonist activity at 5-HT2A receptor (unknown origin) assessed as inhibition of 5-HT stimulated IP1 production at 10 uM incubated for 1 hr by HTRF method relative to control,CHEMBL5550195,2,gq
+CHEMBL5120422,Agonist activity at human N and C-terminal 5HT2A receptor expressed in HEK293T cells cotransfected with Renilla luciferase assessed as fold decrease in potency of Galphaq dissociation by BRET assay,CHEMBL5113537,2,gq
+CHEMBL4709860,Antagonist activity at human 5HT2A receptor expressed in CHO-K1 cells assessed as inhibition of 5HT-induced calcium flux at 10 uM incubated for 60 mins at 37 degC followed by 15 mins incubation at room temperature and subsequent 5HT addition by calcium 4 dye based FLIPR assay relative to control,CHEMBL4706549,2,gq
+CHEMBL4709858,Agonist activity at human 5HT2A receptor expressed in CHO-K1 cells at 10 uM by calcium 4 dye based FLIPR assay relative to control,CHEMBL4706549,2,gq
+CHEMBL5697017,Inhibition of human 5-HT2A by intracellular Ca2+ luminescence assay,CHEMBL5696440,2,gq
+CHEMBL4229842,Antagonist activity at human 5-HT2AR expressed in HEK293 cells assessed as inhibition of serotonin-induced calcium flux at 10'-6 M after 30 mins by HTRF method,CHEMBL4229332,2,gq
+CHEMBL4276607,Antagonist activity at serotonin 5-HT2A receptor (unknown origin) expressed in HEK293 cells assessed as inhibition of serotonin-induced calcium flux after 15 mins by calcium 4-dye based FLIPR assay,CHEMBL4270672,2,gq
+CHEMBL4276606,Antagonist activity at serotonin 5-HT2A receptor (unknown origin) expressed in HEK293 cells assessed as inhibition of serotonin-induced calcium flux at 10 uM after 15 mins by calcium 4-dye based FLIPR assay relative to control,CHEMBL4270672,2,gq
+CHEMBL4276596,Agonist activity at serotonin 5-HT2A receptor (unknown origin) expressed in HEK293 cells assessed as induction of calcium flux at 10 uM after 60 mins by calcium 4-dye based FLIPR assay relative to control,CHEMBL4270672,2,gq
+CHEMBL617053,Functional antagonist activity of compound was determined by fluorescence-based assay measuring intracellular calcium mobilization for 5-HT2a receptor cell line,CHEMBL1133355,1,gq
+CHEMBL5554848,Inverse agonist activity at human 5-HT2A receptor transfected in HEK293T cells assessed as maximal reduction in inositol monophosphate (IP1) accumulation by homogeneous time-resolved fluorescence (HTRF) assay relative to ritanserin,CHEMBL5550221,1,gq
+CHEMBL5547750,Agonist activity at human serotonin receptor 2A assessed as calcium flux at 10 uM by SAFETYscan analysis,CHEMBL5543141,1,gq
+CHEMBL5511910,Antagonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as inhibition of alpha-methylserotonin induced calcium flux,CHEMBL5506064,1,gq
+CHEMBL5547760,Antagonist activity at human serotonin receptor 2A assessed as calcium flux at 10 uM by SAFETYscan analysis,CHEMBL5543141,1,gq
+CHEMBL1020892,Activity at 5HT2A receptor assessed as calcium mobilization by FLIPR,CHEMBL1155011,1,gq
+CHEMBL3386606,Agonist activity at 5HT2A receptor (unknown origin) expressed in CHOK1 cells after 3 mins by calcium flux/FLIPR assay,CHEMBL3352267,1,gq
+CHEMBL4137917,Agonist activity at 5-HT2A (unknown origin) assessed as increase in calcium mobilization up to 100 uM measured for 2 mins by Fluo-4 dye based FLIPR assay,CHEMBL4130639,1,gq
+CHEMBL3774030,Antagonist activity at human 5HT2A receptor assessed as change in intracellular calcium level at <5 uM by fluorescence assay,CHEMBL3769376,1,gq
+CHEMBL3773873,Agonist activity at human 5HT2A receptor by assessed as change in intracellular calcium level at <5 uM by fluorescence assay,CHEMBL3769376,1,gq
+CHEMBL3737570,Agonist activity at human recombinant 5-HT2A receptor expressed in Flp-In HEK cells preincubated for 10 mins by FLIPR based calcium mobilization assay,CHEMBL3734659,1,gq
+CHEMBL3737564,Antagonist activity at human recombinant 5-HT2A receptor expressed in Flp-In HEK cells in the presence of agonist preincubated for 10 mins by FLIPR based calcium mobilization assay,CHEMBL3734659,1,gq
+CHEMBL3635601,Antagonist activity at 5-HT2a receptor (unknown origin) expressed in CHO cells assessed as calcium mobilization at 3 uM,CHEMBL3632469,1,gq
+CHEMBL3635370,Agonist activity at 5-HT2a receptor (unknown origin) expressed in CHO cells assessed as calcium mobilization at 3 uM,CHEMBL3632469,1,gq
+CHEMBL3590945,Partial agonist activity at human 5-HT2A receptor expressed in human tsA201 cells after 30 mins by inositol phosphate turnover assay relative to 5-HT,CHEMBL3588775,1,gq
+CHEMBL3590942,Partial agonist activity at human 5-HT2A receptor expressed in human tsA201 cells after 30 mins by inositol phosphate turnover assay,CHEMBL3588775,1,gq
+CHEMBL3414317,Antagonist activity against human recombinant 5-HT2A receptor expressed in CHOK1 cells assessed as reduction in alpha-methylserotonin-induced increase in intracellular Ca2+ levels by aequorin based radiometric and luminescence plate counting method,CHEMBL3407464,1,gq
+CHEMBL3387203,Antagonist activity at 5HT2A receptor (unknown origin) expressed in CHOK1 cells after 15 mins by calcium flux/FLIPR assay in presence of 5HT,CHEMBL3352267,1,gq
+CHEMBL3377158,Agonist activity at 5HT2A receptor (unknown origin) at 10 uM by cell based calcium mobilization assay,CHEMBL3351908,1,gq
+CHEMBL4179864,Agonist activity at human 5-HT2A receptor expressed in HEK293 cells assessed as increase in IP1 accumulation at 10 uM measured after 30 mins by HTRF method relative to control,CHEMBL4177603,1,gq
+CHEMBL3243869,Antagonist activity at human recombinant 5HT2A receptor expressed in HEK293a cells assessed as inhibition of serotonin-induced increase in calcium fluorescence,CHEMBL3232708,1,gq
+CHEMBL2396135,Agonist activity at serotonin-activated human recombinant 5HT-2A receptor expressed in HEK293 cells assessed as increase in intracellular calcium level after 5 mins measured for 1 min by fluorescence assay,CHEMBL2390866,1,gq
+CHEMBL2328664,Antagonist activity at human 5-HT2A receptor assessed as decrease in agonist-induced intracellular calcium mobilization preincubated for 10 mins prior to agonist addition measured by FLIPR analysis,CHEMBL2321823,1,gq
+CHEMBL2025264,Agonist activity at human 5HT2A receptor expressed in HEK293 cells assessed as calcium flux at 10 uM measured every sec for 3 mins by FLIPR assay,CHEMBL2021856,1,gq
+CHEMBL1772768,Agonist activity at human recombinant 5HT2A receptor expressed in Swiss mouse 3T3 cells increase of fluorescence based calcium mobilization by FLIPR assay relative to control,CHEMBL1770110,1,gq
+CHEMBL1772767,Agonist activity at human recombinant 5HT2A receptor expressed in Swiss mouse 3T3 cells increase of fluorescence based calcium mobilization by FLIPR assay,CHEMBL1770110,1,gq
+CHEMBL1069958,Agonist activity against 5HT2A receptor assessed as inositol phosphate accumulation,CHEMBL1153119,1,gq
+CHEMBL1059881,Antagonist activity at human recombinant 5HT2A expressed in HEK293 cells assessed as intracellular calcium by fluorimetry,CHEMBL1153053,1,gq
+CHEMBL1049779,Agonist activity at human recombinant 5HT2A receptor transfected in CHO K1 cells assessed as calcium mobilisation by FLIPR assay,CHEMBL1155998,1,gq
+CHEMBL1041066,Agonist activity at 5HT2A receptor expressed in HEK cells assessed as inhibition of serotonin-induced inositol phosphate accumulation,CHEMBL1155963,1,gq
+CHEMBL1039802,Antagonist activity at human 5HT2A receptor expressed in CHO cells assessed as inhibition of (R)-(-)-DOI hydrochloride-induced intracellular calcium mobilization at 1000 nM by FLIPR assay,CHEMBL1152674,1,gq
+CHEMBL4139214,Agonist activity at 5-HT2A receptor in human MCF7 cells assessed as increase in calcium flux at 5 uM measured at 5 secs time interval for 2 mins by Fluo-4AM dye based fluorescence microscopic analysis,CHEMBL4138090,1,gq
+CHEMBL4193009,Antagonist activity at 5-HT2A receptor (unknown origin) by calcium release assay,CHEMBL4190286,1,gq
+CHEMBL5359170,Partial agonist activity at human 5-HT2AR expressed in human Flp-In-T-REx-293 cells assessed as increase in calcium flux by measuring maximal efficacy incubated for 60 mins followed by incubation for 30 mins in dark by Flou-4 dye based FLIPR assay relative to control,CHEMBL5357013,1,gq
+CHEMBL4195144,Agonist activity at human 5-HT2A receptor expressed in CHO-K1 cells co-expressing Galpha16 assessed as increase in calcium mobilization measured for 30 secs by aequorin-derived luminescence assay,CHEMBL4190389,1,gq
+CHEMBL4709859,Agonist activity at human 5HT2A receptor expressed in CHO-K1 cells by calcium 4 dye based FLIPR assay,CHEMBL4706549,1,gq
+CHEMBL4704156,Antagonist activity at human 5HT2A receptor at 2 uM by cell based calcium flux assay,CHEMBL4699583,1,gq
+CHEMBL4704155,Agonist activity at human 5HT2A receptor at 2 uM by cell based calcium flux assay,CHEMBL4699583,1,gq
+CHEMBL4677341,Antagonist activity at 5-HT2A receptor (unknown origin) by calcium mobilization assay,CHEMBL4673280,1,gq
+CHEMBL4615098,Antagonist activity at recombinant human full-length 5HT2A receptor expressed in CHOK1 cells assessed as inhibition of serotonin-induced inositol phosphate accumulation at 1 uM measured after 30 mins by TR-FRET assay relative to control,CHEMBL4613264,1,gq
+CHEMBL4276597,Agonist activity at serotonin 5-HT2A receptor (unknown origin) expressed in HEK293 cells assessed as induction of calcium flux after 60 mins by calcium 4-dye based FLIPR assay,CHEMBL4270672,1,gq
+CHEMBL4229845,Antagonist activity at human 5-HT2AR expressed in HEK293 cells assessed as inhibition of serotonin-induced IP1 accumulation at 10'-6 M by chemiluminescence-based assay,CHEMBL4229332,1,gq
+CHEMBL4229844,Antagonist activity at human 5-HT2AR expressed in HEK293 cells assessed as inhibition of serotonin-induced IP1 accumulation by chemiluminescence-based assay,CHEMBL4229332,1,gq

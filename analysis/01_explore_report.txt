@@ -1,0 +1,40 @@
+
+5-HT2A Biased Agonism Data Exploration - ChEMBL (CHEMBL224)
+============================================================
+Compounds are paired only within the same document (paper).
+
+Total functional activity records:   5181
+Unique functional assays:            295
+
+Assay pathway classification:
+  Gq-pathway:       200
+  Beta-arrestin:    7
+  Both keywords:    0
+  Unclassified:     88
+
+Documents:
+  With Gq assays:          108
+  With barr assays:        3
+  With BOTH (qualifying):  2
+
+Within qualifying documents:
+  Compounds with Emax in both pathways:      29
+  Compounds with EC50 in both pathways:      29
+  Compounds with Emax AND EC50 in both:      29
+
+Verdict:
+  Small dataset (<30). ChEMBL alone may be insufficient; consider literature curation.
+
+Gq assay descriptions (sample, paired docs):
+  - Agonist activity at 5-HT2A (unknown origin) expressed in HEK293T cells co-transfected with RLuc-fused Galphaq/GFP2/Gy9/Gbeta3 assessed as Gaq hetero trimeric G protein activation at 0.1 to 10 uM incubated for 30 mins using coelenterazine 400a as a substrate by BRET assay relative to control
+  - Agonist activity at 5-HT2A (unknown origin) expressed in HEK293T cells co-transfected with RLuc-fused Galphaq/GFP2/Gy9/Gbeta3 assessed as Gaq hetero trimeric G protein activation incubated for 30 mins using coelenterazine 400a as a substrate by BRET assay
+  - Agonist activity at human 5HT2A receptor transfected in HEK293T cells assessed as mini Galphaq recruitment measured for 2 hrs by luminescent assay
+  - Agonist activity at human 5HT2A receptor transfected in HEK293T cells assessed as mini Galphaq recruitment measured for 2 hrs by luminescent assay relative to control
+  - Agonist activity at human N and C-terminal 5HT2A receptor expressed in HEK293T cells cotransfected with Renilla luciferase assessed as fold decrease in potency of Galphaq dissociation by BRET assay
+
+Barr assay descriptions (sample, paired docs):
+  - Agonist activity at RLuc-fused 5-HT2A (unknown origin) expressed in HEK293T cells co-transfected with mVenus-fused beta arrestin-2/GRK2 assessed as beta arrestin-2 recruitment incubated for 30 mins using coelenterazine h as a substrate by BRET assay
+  - Agonist activity at RLuc-fused 5-HT2A (unknown origin) expressed in HEK293T cells co-transfected with mVenus-fused beta arrestin-2/GRK2 assessed as beta arrestin-2 recruitment at 0.1 to 10 uM incubated for 30 mins using coelenterazine h as a substrate by BRET assay relative to control
+  - Agonist activity at human 5HT2A receptor transfected in HEK293T cells assessed as beta arrestin-2 recruitment measured for 2 hrs by luminescent assay relative to control
+  - Agonist activity at human 5HT2A receptor transfected in HEK293T cells assessed as beta arrestin-2 recruitment measured for 2 hrs by luminescent assay
+  - Agonist activity at wild type human 5HT2A transfected in HEK293T cells assessed as beta arrestin-2 recruitment measured for 2 hrs by luminescent assay

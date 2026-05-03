@@ -1,0 +1,54 @@
+
+5-HT2A Biased Agonism QSAR — Results
+======================================
+
+Dataset: 46 compounds, Morgan fingerprints (ECFP4 radius=2, 2048 bits)
+Informative bits (non-zero variance): 306
+Target: log10 bias factor (continuous regression)
+
+LOO-CV Results (within-dataset interpolation):
+Model              R²      MAE  Pearson r        p-value
+--------------------------------------------------------
+Ridge           0.708    0.136      0.843       1.92e-13
+Lasso           0.777    0.112      0.883       4.89e-16
+RF              0.752    0.124      0.871       3.31e-15
+GradBoost       0.763    0.121      0.874       2.10e-15
+
+Best LOO model: Lasso  R²=0.777
+
+LOSO-CV Results (cross-series generalisation):
+Model              R²      MAE  Pearson r        p-value
+--------------------------------------------------------
+Ridge          -0.182    0.319      0.074       6.27e-01
+Lasso          -0.385    0.342      0.006       9.70e-01
+RF             -0.139    0.324     -0.002       9.91e-01
+GradBoost      -0.377    0.342     -0.027       8.57e-01
+
+Best LOSO model: RF  R²=-0.139
+
+LOO vs LOSO R² drop:
+Model          LOO R²   LOSO R²     Drop
+------------------------------------------
+Ridge           0.708    -0.182    0.890
+Lasso           0.777    -0.385    1.162
+RF              0.752    -0.139    0.891
+GradBoost       0.763    -0.377    1.139
+
+
+Interpretation:
+  A large LOO-LOSO drop (>0.4) suggests inter-series confounding:
+  the model learns scaffold identity rather than the SAR within scaffolds.
+  A small drop suggests the model captures genuine structure-bias signal
+  that generalises across chemical series.
+
+Chemical series in dataset:
+              count      mean       std       min       max
+series                                                     
+25CN-NBOH      12.0  0.268681  0.303730 -0.304960  0.673123
+Heterocyclic   17.0 -0.201137  0.154977 -0.596269  0.036311
+Pottie2023     17.0  0.402389  0.174484  0.185453  0.864253
+
+Notes:
+  - p=0.00e+00 means p < 1e-300 (machine epsilon); not a calculation error
+  - ChEMBL compounds use Emax-only bias; Pottie compounds use Emax/EC50
+  - LOO-CV is appropriate for small datasets but optimistic vs true external test

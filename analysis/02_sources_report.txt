@@ -1,0 +1,20 @@
+
+5-HT2A Biased Agonism - Source Papers and Compounds
+====================================================
+
+Qualifying papers (both Gq and beta-arrestin assays, BRET platform):
+  [CHEMBL5113537] Discovery of β-Arrestin-Biased 25CN-NBOH-Derived 5-HT<sub>2A</sub> Receptor Agonists. -- J Med Chem (2022) -- DOI: 10.1021/acs.jmedchem.2c00702
+  [CHEMBL5370684] Small-Molecule Heterocyclic Compounds: Gq-Biased Agonists for the 5-HT2A Receptor in Neuropsychiatric Treatment. -- ACS Med Chem Lett (2023) -- DOI: 10.1021/acsmedchemlett.3c00444
+
+Total paired compounds: 29
+Compounds with SMILES:  29
+Compounds with names:   2
+
+Chemical series present (based on names):
+  - SEROTONIN
+  - LYSERGIDE
+
+Next steps:
+  These 29 compounds form the ChEMBL core dataset.
+  Supplement with manual curation from the papers identified above
+  and related publications to reach ~80-100 compounds total.

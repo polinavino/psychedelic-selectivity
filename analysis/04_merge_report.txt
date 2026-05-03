@@ -1,0 +1,45 @@
+
+5-HT2A Biased Agonism — Combined Dataset Summary
+=================================================
+Bias factor: log10((Emax_barr/EC50_barr) / (Emax_gq/EC50_gq))
+             Falls back to log10(Emax_barr/Emax_gq) when EC50 unavailable.
+Classification threshold: |log_bias| > 0.5 (~3x pathway preference)
+
+Sources:
+  ChEMBL (2 papers, Emax-only):          29 compounds
+  Literature (Pottie & Poulie 2023):     17 compounds
+
+Final combined dataset:                  46 compounds
+
+Bias class distribution:
+bias_class
+balanced       40
+barr-biased     5
+Gq-biased       1
+
+By source:
+source                                           bias_class 
+25CN-NBOH (J Med Chem 2022)                      balanced        9
+                                                 barr-biased     3
+Heterocyclic Gq-biased (ACS Med Chem Lett 2023)  balanced       16
+                                                 Gq-biased       1
+literature (Pottie & Poulie 2023)                balanced       15
+                                                 barr-biased     2
+
+Log bias statistics:
+  Min:  -0.596
+  Max:  0.864
+  Mean: 0.144
+  Std:  0.341
+
+Bias method per source:
+  Pottie & Poulie 2023: Emax/EC50 transduction ratio
+  ChEMBL compounds:     Emax ratio only (EC50 not available in paired_compounds.csv)
+
+Note: The ChEMBL compounds should ideally be re-fetched with EC50 data
+to use the full transduction ratio. This is a next-step improvement.
+
+Next steps:
+  - Compute Morgan fingerprints for all 46 compounds
+  - Build QSAR model predicting log_bias from fingerprints
+  - Evaluate with leave-one-out or 5-fold cross-validation
