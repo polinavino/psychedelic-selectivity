@@ -4,3 +4,8 @@ data/
 .DS_Store
 __pycache__/
 *.pyc
+analysis/bias_distribution.png
+analysis/feature_importance.png
+analysis/qsar_predictions.png
+analysis/09_full_serotonin_family.py
+shulgin-selectivity/analysis/00_inspect_pdsp.py
