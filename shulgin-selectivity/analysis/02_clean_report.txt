@@ -1,0 +1,103 @@
+Loaded 1945 records, 198 unique names
+
+After whitelist filter:
+  Records:           1190
+  Unique compounds:  65
+  Removed (noise):   755 records
+
+Ki value quality:
+  Valid numeric Ki:  1190
+  Non-numeric/NaN:   0
+  Censored ('>'):    105
+  pKi range:         4.85 to 10.00
+
+Species breakdown:
+species
+HUMAN         528
+RAT           421
+PIG            94
+GUINEA PIG     35
+BOVINE         34
+MOUSE          30
+CALF           15
+COW             9
+Dog             7
+UNDEFINED       4
+
+Human records: 529 / 1190
+
+Receptor coverage per compound:
+Compound                  n_rec   2A   2B  Receptors
+--------------------------------------------------------------------------------
+  serotonin                  12    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT4, 5-HT6, 5-HT7
+  5-MeO-T                    12    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT4, 5-HT6, 5-HT7
+  tryptamine                 11    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT4, 5-HT6, 5-HT7
+  psilocin                   10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  DPT                        10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  LSD                        10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  6-F-DMT                    10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  5-MeO-DMT                  10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  MDMA                       10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  DMT                        10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  2C-B                       10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  2C-E                       10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  psilocybin                 10    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  4-HO-DALT                   9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  mescaline                   9    Y    -  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  DOI                         9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6
+  2-Ph-DALT                   9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  7-Et-DALT                   9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  DiPT                        9    Y    Y  5-HT1A, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  5-MeO-MiPT                  9    Y    Y  5-HT1A, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  5-MeO-DiPT                  9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT3, 5-HT6, 5-HT7
+  2C-T-2                      9    Y    Y  5-HT1A, 5-HT1B, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  5-MeO-DALT                  9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  4-AcO-DALT                  9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  bufotenine                  9    Y    -  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1F, 5-HT2A, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  DALT                        9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  5-MeO-2-F-DALT              9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  5-F-DALT                    9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  5-Br-DALT                   9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  5-MeO-2-Me-DALT             9    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  5-Me-DMT                    8    Y    -  5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2C, 5-HT6, 5-HT7
+  DOB                         7    Y    Y  5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C
+  MDA R(-)                    6    Y    Y  5-HT1A, 5-HT1B, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3
+  ibogaine                    6    Y    -  5-HT1A, 5-HT1B, 5-HT1D, 5-HT2A, 5-HT2C, 5-HT3
+  2-Bromo-LSD                 5    Y    Y  5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  DOET                        4    Y    -  5-HT1A, 5-HT1B, 5-HT2A, 5-HT2C
+  DOM                         4    Y    -  5-HT1A, 5-HT1B, 5-HT2A, 5-HT2C
+  melatonin                   4    Y    Y  5-HT2A, 5-HT2B, 5-HT2C, 5-HT7
+  LSD (+)                     4    Y    -  5-HT2A, 5-HT2C, 5-HT6, 5-HT7
+  MDA                         3    Y    -  5-HT1B, 5-HT2A, 5-HT2C
+  TMA-2,4,5                   2    -    -  5-HT1A, 5-HT1B
+  5-MeO-DET                   1    Y    -  5-HT2A
+  2-Me-DMT                    1    -    -  5-HT6
+  2C-H                        1    Y    -  5-HT2A
+  4-HO-DET                    1    Y    -  5-HT2A
+  4-MeO-DMT                   1    Y    -  5-HT2A
+  5-HO-DiPT                   1    Y    -  5-HT2A
+  5-MeO-7-Me-DMT              1    Y    -  5-HT2A
+  TMA-2,3,5                   1    -    -  5-HT2C
+  OH-DOB                      1    Y    -  5-HT2A
+  5-MeO-AMT                   1    Y    -  5-HT2A
+  AMT-iso                     1    Y    -  5-HT2A
+  MDA (R,S)                   1    -    Y  5-HT2B
+  BenzO-DOB                   1    Y    -  5-HT2A
+  LSD (-)                     1    Y    -  5-HT2A
+  6-MeO-DMT                   1    Y    -  5-HT2A
+  Iodo-LSD                    1    Y    -  5-HT2A
+  7-Br-DMT                    1    Y    -  5-HT2A
+  7-MeO-DMT                   1    Y    -  5-HT2A
+  DOM-iso                     1    Y    -  5-HT2A
+  7-OH-DMT                    1    Y    -  5-HT2A
+  2-Iodo-LSD                  1    -    -  5-HT2C
+  AMT (+)                     1    Y    -  5-HT2A
+  AMT (-)                     1    Y    -  5-HT2A
+  AMT                         1    Y    -  5-HT2A
+
+Compounds with 5-HT2A data: 60
+Compounds with >= 3 receptors: 40
+Compounds with >= 5 receptors: 35
+
+Saved analysis/shulgin_clean.csv (1190 records)
+Saved analysis/shulgin_compound_list.csv (65 compounds)

@@ -1,0 +1,85 @@
+Loaded 1085 valid (non-censored) Ki records
+Compounds: 62
+
+pKi matrix: 62 compounds x 12 receptors
+After filtering (>= 3 receptors): 36 compounds
+
+===========================================================================
+SELECTIVITY PROFILES — Shulgin compounds at serotonin receptors
+===========================================================================
+
+Definitions:
+  S-score:  fraction of receptors below pKi=6.0 (higher = more selective)
+  Gini:     concentration of binding (higher = more selective)
+  Entropy:  Shannon entropy of pKi distribution (lower = more selective)
+  Ratio:    pKi_top1 / pKi_top2 (higher = more selective)
+  2A-2B:    pKi(5-HT2A) - pKi(5-HT2B) (positive = 2A-selective = safer)
+
+Compound               nRec   S-sc   Gini   Entr  Ratio  2A-2B  Top receptor
+-------------------------------------------------------------------------------------
+  psilocybin              6  0.167  0.054  2.138  1.175  +1.27  5-HT2A
+  2-Ph-DALT               7  0.000  0.035  2.096  1.100  +1.17  5-HT2A
+  LSD                     9  0.000  0.037  2.888  1.019  +0.84  5-HT1A
+  2-Bromo-LSD             5  0.000  0.026  1.281  1.101  +0.81  5-HT2A
+  5-MeO-DMT               9  0.111  0.067  2.855  1.025  +0.76  5-HT7
+  4-HO-DALT               9  0.333  0.037  2.644  1.007  +0.60  5-HT6
+  DOB                     7  0.286  0.087  2.307  1.062  +0.49  5-HT2A
+  DOI                     8  0.625  0.088  2.134  1.047  +0.46  5-HT2A
+  2C-B                    9  0.000  0.039  2.673  1.007  -0.06  5-HT2B
+  DMT                     9  0.111  0.029  2.970  1.040  -0.19  5-HT7
+  2C-E                    9  0.111  0.051  2.908  1.033  -0.24  5-HT2B
+  5-MeO-DALT              9  0.000  0.039  2.738  1.068  -0.57  5-HT1A
+  5-MeO-2-Me-DALT         7  0.429  0.036  2.328  1.010  -0.68  5-HT6
+  tryptamine             10  0.200  0.049  2.916  1.054  -0.75  5-HT7
+  2C-T-2                  8  0.250  0.070  2.361  1.111  -0.82  5-HT2B
+  5-MeO-MiPT              7  0.286  0.075  2.349  1.027  -0.88  5-HT1A
+  4-AcO-DALT              8  0.250  0.035  2.478  1.122  -0.95  5-HT2B
+  5-Br-DALT               9  0.000  0.048  2.735  1.089  -0.95  5-HT1A
+  MDMA                    3  0.667  0.047  0.577  1.188  -0.96  5-HT2B
+  DALT                    7  0.143  0.040  2.405  1.031  -1.06  5-HT2B
+  5-F-DALT                9  0.111  0.050  2.823  1.093  -1.19  5-HT2B
+  serotonin              12  0.000  0.050  3.235  1.028  -1.24  5-HT7
+  MDA R(-)                3  0.667  0.049  0.821  1.149  -1.35  5-HT2B
+  7-Et-DALT               5  0.600  0.049  1.679  1.131  -1.37  5-HT2B
+  6-F-DMT                 9  0.000  0.048  2.663  1.009  -1.46  5-HT6
+  5-MeO-2-F-DALT          9  0.333  0.049  2.593  1.147  -1.59  5-HT2B
+  DPT                     9  0.444  0.064  2.652  1.016  -1.79  5-HT1A
+  psilocin                9  0.000  0.042  2.689  1.077  -1.86  5-HT2B
+  5-MeO-T                11  0.182  0.078  3.143  1.058  -1.98  5-HT7
+  5-Me-DMT                8  0.000  0.039  2.637  1.046   +nan  5-HT7
+  5-MeO-DiPT              5  0.600  0.055  1.826  1.013   +nan  5-HT1A
+  DOET                    4  0.500  0.069  1.251  1.040   +nan  5-HT2A
+  DOM                     4  0.500  0.088  1.425  1.065   +nan  5-HT2A
+  DiPT                    4  0.500  0.056  1.068  1.081   +nan  5-HT1A
+  LSD (+)                 4  0.000  0.028  1.487  1.032   +nan  5-HT6
+  bufotenine              9  0.000  0.038  2.803  1.038   +nan  5-HT1D
+
+==================================================
+5-HT2A vs 5-HT2B selectivity (cardiac safety)
+==================================================
+Most 2A-selective (safest):
+  psilocybin             2A-2B = +1.27  pKi_2A=7.89  pKi_2B=6.61
+  2-Ph-DALT              2A-2B = +1.17  pKi_2A=7.89  pKi_2B=6.72
+  LSD                    2A-2B = +0.84  pKi_2A=8.57  pKi_2B=7.73
+  2-Bromo-LSD            2A-2B = +0.81  pKi_2A=8.82  pKi_2B=8.02
+  5-MeO-DMT              2A-2B = +0.76  pKi_2A=6.41  pKi_2B=5.65
+
+Least 2A-selective (most cardiac risk):
+  5-MeO-T                2A-2B = -1.98  pKi_2A=6.28  pKi_2B=8.26
+  psilocin               2A-2B = -1.86  pKi_2A=6.47  pKi_2B=8.33
+  DPT                    2A-2B = -1.79  pKi_2A=5.59  pKi_2B=7.38
+  5-MeO-2-F-DALT         2A-2B = -1.59  pKi_2A=6.18  pKi_2B=7.77
+  6-F-DMT                2A-2B = -1.46  pKi_2A=6.06  pKi_2B=7.53
+
+==================================================
+Correlation between selectivity definitions
+==================================================
+         s_score   gini  entropy  ratio
+s_score    1.000  0.468   -0.628  0.277
+gini       0.468  1.000   -0.078 -0.019
+entropy   -0.628 -0.078    1.000 -0.465
+ratio      0.277 -0.019   -0.465  1.000
+
+Saved analysis/selectivity_profiles.csv
+Saved analysis/selectivity_heatmap.png
+Saved analysis/selectivity_scores.png

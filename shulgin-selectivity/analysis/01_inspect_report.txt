@@ -1,0 +1,609 @@
+Loaded 91200 records
+Unique receptors: 1076
+
+Serotonin receptor records: 18191
+name
+5-HT2A    3446
+5-HT1A    2949
+5-HT2C    2520
+5-HT7     1626
+5-HT6     1425
+5-HT1B    1363
+5-HT1D    1282
+5-HT2B    1274
+5-HT3     1188
+5-HT1E     642
+5-HT4      379
+5-HT1F      97
+
+Shulgin compounds searched: 114
+
+Exact matches:     401 records
+Substring matches: 1544 records
+Total records:     1945
+
+Unique Shulgin compounds found in PDSP: 198
+ligandname
+5-Hydroxy Tryptamine                                                                                                                                                                             326
+5-Methoxytryptamine                                                                                                                                                                              133
+RISPERIDONE                                                                                                                                                                                      128
+LSD                                                                                                                                                                                               94
+TRYPTAMINE                                                                                                                                                                                        73
+Ziprasidone                                                                                                                                                                                       63
+DMT,5-OH                                                                                                                                                                                          47
+DOI                                                                                                                                                                                               44
+DOB                                                                                                                                                                                               37
+9-OH-risperidone                                                                                                                                                                                  33
+DMT                                                                                                                                                                                               32
+ORG-5222                                                                                                                                                                                          28
+MDMA                                                                                                                                                                                              25
+DMT,5-MeO                                                                                                                                                                                         22
+TRAZODONE                                                                                                                                                                                         21
+DMT,5-Me                                                                                                                                                                                          20
+ILOPERIDONE                                                                                                                                                                                       19
+MOLINDONE                                                                                                                                                                                         19
+DOMPERIDONE                                                                                                                                                                                       18
+LSD,2-Bromo                                                                                                                                                                                       17
+DOM                                                                                                                                                                                               15
+MELATONIN                                                                                                                                                                                         15
+4-Bromo-2,5-dimethoxyphenethylamine                                                                                                                                                               13
+PSILOCYBIN                                                                                                                                                                                        12
+Donepezil                                                                                                                                                                                         11
+4-Hydroxy-N,N-dimethyltryptamine                                                                                                                                                                  10
+MDA,R(-)                                                                                                                                                                                          10
+4-Ethyl-2,5-dimethoxyphenethylamine                                                                                                                                                               10
+Ethyl(3aR,3bS,4aS,5R,5aS)-2,2-dimethyl-5-(4-(phenethylamino)-2-(phenylethynyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)- tetrahydrocyclopropa[3,4]cyclopenta[1,2-d][1,3]dioxole-3b- (3aH)-carboxylate     10
+(Â±)-(4aR,8S,8aR)-2-cyclopropyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide                                                                                           10
+(Â±)-(4aR,8S,8aR)-2-benzyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide                                                                                                10
+(1R,2R,3S,4R,5S)-4-(4-(Phenethylamino)-2-(phenylethynyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)bicyclo[3.1.0]hexane2,3-diol                                                                             10
+Ethyl(1S,2R,3S,4R,5S)-2,3-dihydroxy-4-(4-(phenethylamino)-2-(phenylethynyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)- bicyclo[3.1.0]hexane-1-carboxylate                                                  10
+4-Ethylthio-2,5-dimethoxyphenethylamine                                                                                                                                                           10
+(Â±)-(4aR,8S,8aR)-2-butyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide                                                                                                 10
+IBOGAINE                                                                                                                                                                                          10
+6-Fluoro-N,N-dimethyltryptamine                                                                                                                                                                   10
+N,N-Dipropyltryptamine                                                                                                                                                                            10
+LSD,(+)                                                                                                                                                                                            9
+2-phenyl-N,N-diallyltryptamine                                                                                                                                                                     9
+Pseudonorephedrine, (+) [cathine, (+)]                                                                                                                                                             9
+Pseudonorephedrine, (-) [cathine, (-)]                                                                                                                                                             9
+Acetylsalicylic acid                                                                                                                                                                               9
+N-(4-Acetamidophenyl)indomethacinamide                                                                                                                                                             9
+5-Methoxy-N-methyl-N-isopropyltryptamine                                                                                                                                                           9
+5-methoxy-N,N-diallyltryptamine                                                                                                                                                                    9
+5-fluoro-N,N-diallyltryptamine                                                                                                                                                                     9
+5-bromo-N,N-diallyltryptamine                                                                                                                                                                      9
+4-hydroxy-N,N-diallyltryptamine                                                                                                                                                                    9
+4-acetoxy-N,N-diallyltryptamine                                                                                                                                                                    9
+N,N-diallyltryptamine                                                                                                                                                                              9
+5-methoxy-2-methyl-N,N-diallyltryptamine                                                                                                                                                           9
+5-Methoxy-N,N-diisopropyltryptamine                                                                                                                                                                9
+N,N-Diisopropyltryptamine                                                                                                                                                                          9
+3,4,5-Trimethoxyphenethylamine                                                                                                                                                                     9
+5-methoxy-2-fluoro-N,N-diallyltryptamine                                                                                                                                                           9
+7-ethyl-N,N-diallyltryptamine                                                                                                                                                                      9
+5-Methoxy-2-phenyl-DMT Oxalate                                                                                                                                                                     8
+DMT,2-Me-5-methoxy                                                                                                                                                                                 8
+DOI,(-)                                                                                                                                                                                            8
+Nefazodone                                                                                                                                                                                         7
+DOB,R(-)                                                                                                                                                                                           7
+DOB,S(+)                                                                                                                                                                                           7
+ORG-37684                                                                                                                                                                                          6
+LSD,l-                                                                                                                                                                                             6
+DOPR                                                                                                                                                                                               6
+PSILOCIN                                                                                                                                                                                           6
+MDMA, R(-)                                                                                                                                                                                         5
+1-butanoyl-D-lysergic acid diethylamide (1B-LSD)                                                                                                                                                   5
+AMDA                                                                                                                                                                                               5
+DOI,(+)                                                                                                                                                                                            5
+MESCALINE                                                                                                                                                                                          5
+8-((4-(3,4-Dihydroisoquinolin-2(1H)-yl)butyl) amino)-1,3-dimethyl-7-phenethyl-1H-purine2,6(3H,7H)-dione hydrochloride                                                                              4
+1,3-Dimethyl-7-phenethyl-8-((4-(4-(3-chlorophenyl)piperazin-1-yl)butyl)amino)-1H-purine2,6(3H,7H)-dione hydrochloride                                                                              4
+1,3-Dimethyl-7-phenethyl-8-((4-(4-(2-methoxyphenyl)piperazin-1-yl)butyl)amino)-1H-purine2,6(3H,7H)-dione hydrochloride                                                                             4
+1,3-Dimethyl-7-phenethyl-8-((4-(4-phenylpiperazin-1-yl)butyl)amino)-1H-purine2,6(3H,7H)-dione hydrochloride                                                                                        4
+1-Methylpsilocin                                                                                                                                                                                   4
+1-Methylpsilocybin                                                                                                                                                                                 4
+1-Butylpsilocin                                                                                                                                                                                    4
+1-Butylpsilocybin                                                                                                                                                                                  4
+N-(3-Iodobenzyl)-2-(5-methoxy-1H-indol-3-yl)ethan-1-amine maleate                                                                                                                                  4
+8-((3-(3,4-Dihydroisoquinolin-2(1H)-yl)propyl)amino)-1,3-dimethyl-7-phenethyl-1H-purine2,6(3H,7H)-dione hydrochloride                                                                              4
+8-(3-(4-(4-Fluorophenyl)piperazin-1-yl)propoxy)- 1,3-dimethyl-7-phenethyl-1H-purine-2,6(3H,7H)- dione hydrochloride                                                                                4
+MDA                                                                                                                                                                                                4
+DOBz                                                                                                                                                                                               4
+DOET                                                                                                                                                                                               4
+DOM,R(-)                                                                                                                                                                                           4
+DON                                                                                                                                                                                                4
+QDOB                                                                                                                                                                                               4
+DOCN                                                                                                                                                                                               4
+HARMINE                                                                                                                                                                                            4
+TRYPTAMINE,5-MeO,a-                                                                                                                                                                                4
+DOC                                                                                                                                                                                                4
+TMA                                                                                                                                                                                                4
+LSD,(-)                                                                                                                                                                                            4
+TMA,3,4,5-                                                                                                                                                                                         4
+2-((2,5-Dimethoxy-4-(trifluoromethyl)phenethylamino)methyl)phenol hydrochloride                                                                                                                    3
+2C-BI-2                                                                                                                                                                                            3
+4-{[(4-Iodobenzyl)sulfanyl]methyl}-1H-imidazole                                                                                                                                                    3
+MDEA                                                                                                                                                                                               3
+D-lysergic acid diethylamide (LSD)                                                                                                                                                                 3
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(2-methoxyphenyl)propan-1-amine                                                                                                 3
+2-(benzo[d][1,3]dioxol-5-yl)-N-benzyl-N-(3,4-dimethoxyphenethyl)ethan-1-amine                                                                                                                      3
+2-(benzo[d][1,3]dioxol-5-yl)-N-(3,4-dimethoxyphenethyl)-N-phenethylethan-1-amine                                                                                                                   3
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-phenylpropan-1-amine                                                                                                            3
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3-methoxyphenyl)propan-1-amine                                                                                                 3
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(4-methoxyphenyl)propan-1-amine                                                                                                 3
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(2,5-dimethoxyphenyl)propan-1-amine                                                                                             3
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3,4,5-trimethoxyphenyl)propan-1-amine                                                                                          3
+N-(2-(benzo[d][1,3]dioxol-4-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3-methoxyphenyl)propan-1-amine                                                                                                 3
+2C-BI-1                                                                                                                                                                                            3
+(Z)-N-(2-(benzo[d][1,3]dioxol-4-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-4-phenylbut-3-en-1-amine                                                                                                      3
+Lurasidone                                                                                                                                                                                         3
+4-iodo-2,5-dimethoxyphenethylamine                                                                                                                                                                 3
+Mescaline-NBOMe                                                                                                                                                                                    3
+2C-BI-12                                                                                                                                                                                           3
+2C-BI-3                                                                                                                                                                                            3
+2C-BI-11                                                                                                                                                                                           3
+2C-BI-10                                                                                                                                                                                           3
+2C-BI-8                                                                                                                                                                                            3
+2C-BI-7                                                                                                                                                                                            3
+2C-BI-5                                                                                                                                                                                            3
+2C-BI-4                                                                                                                                                                                            3
+DOBU                                                                                                                                                                                               3
+2,5-dimethoxy-4-isopropylthiophenethylamine                                                                                                                                                        3
+DMT,5-MeO-7-M                                                                                                                                                                                      2
+DMT,6-MeO                                                                                                                                                                                          2
+DMT,4-MeO                                                                                                                                                                                          2
+DET,5-MeO                                                                                                                                                                                          2
+(1S,2R,3S,4R,5S)-N-(3-Acetamidopropyl)-4-(2-chloro-6- ((dicyclopropylmethyl)amino)-9H-purin-9-yl)-2,3-dihydroxybicyclo- [3.1.0]hexane-1-carboxamide                                                2
+DMT,7-Br                                                                                                                                                                                           2
+DMT,7-MeO                                                                                                                                                                                          2
+2-Br LSD                                                                                                                                                                                           2
+TRYPTAMINE,a-Me                                                                                                                                                                                    2
+DOET,(-)                                                                                                                                                                                           2
+3-AMTBI                                                                                                                                                                                            2
+DMT,7-OH                                                                                                                                                                                           2
+(1S,2R,3S,4R,5S)-N-(2-Acetamidoethyl)-4-(2-chloro-6- ((dicyclopropylmethyl)amino)-9H-purin-9-yl)-2,3-dihydroxybicyclo- [3.1.0]hexane-1-carboxamide                                                 2
+2-((4-Ethyl-2,5-dimethoxyphenethylamino)methyl)phenol hydrochloride                                                                                                                                2
+MDA,S(+)                                                                                                                                                                                           2
+N-(2-(benzo[d][1,3]dioxol-4-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3,4,5-trimethoxyphenyl)propan-1-amine                                                                                          2
+5-M-N,N-DMT                                                                                                                                                                                        2
+Hydroxynefazodone                                                                                                                                                                                  2
+MDA, (R,S)                                                                                                                                                                                         2
+PINDOBIND-5-HT1A                                                                                                                                                                                   2
+5-MeOT,N,N tryptamine                                                                                                                                                                              2
+5-OH-ME-Nw Tryptamine                                                                                                                                                                              2
+2,5-dimethoxyphenethylamine                                                                                                                                                                        2
+MDMA,S(+)                                                                                                                                                                                          2
+TMA,2,3,5-                                                                                                                                                                                         2
+TRYPTAMINE,a-MeISO                                                                                                                                                                                 2
+TRYPTAMINE,a-Me(-)                                                                                                                                                                                 2
+TRYPTAMINE,a-Me(+)                                                                                                                                                                                 2
+2-((2,5-Dimethoxy-4-propylphenethylamino)methyl)phenol hydrochloride                                                                                                                               2
+2,4,5-TMA                                                                                                                                                                                          1
+Vilazodone                                                                                                                                                                                         1
+(Â±)-(4aS,8R,8aS)-N-(4-chloro-3-(trifluoromethyl)phenyl)-1-oxo-2-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide                                                                   1
+3,4,5-Trimethoxyphenethylami                                                                                                                                                                       1
+2,5-dimethoxyphenethylamin                                                                                                                                                                         1
+5-OBzlTRYPTAMINE                                                                                                                                                                                   1
+(Â±)-(4aS,8R,8aS)-2-butyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide                                                                                                  1
+LSD,2-iodo                                                                                                                                                                                         1
+(Â±)-(4aS,8R,8aS)-2-benzyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide                                                                                                 1
+Etoperidone                                                                                                                                                                                        1
+AMT,(+)                                                                                                                                                                                            1
+5-Methoxy-N-benzyl-N-methyl-1-(benzenesulfonyl)tryptamine                                                                                                                                          1
+N,N-Diethyl-1-(4-acetamidobenzenesulfonyl)tryptamine                                                                                                                                               1
+N,N-Dimethyl-1-(4-aminobenzenesulfonyl)tryptamine                                                                                                                                                  1
+N,N-Dimethyl-1-(4-acetamidobenzenesulfonyl)tryptamine                                                                                                                                              1
+5-Methoxy-N,N-diethyl-1-(4-aminobenzenesulfonyl)tryptamine                                                                                                                                         1
+5-Methoxy-N,N-diethyl-1-(4-acetamidobenzenesulfonyl)tryptamine                                                                                                                                     1
+5-Methoxy-N,N-dimethyl-1-(4-acetamidobenzenesulfonyl)tryptamine                                                                                                                                    1
+5-Methoxy-N,N-diethyl-1-(benzenesulfonyl)tryptamine                                                                                                                                                1
+AMT,(-)                                                                                                                                                                                            1
+5-Methoxy-N-methyl-1-(benzenesulfonyl)tryptamine                                                                                                                                                   1
+N,N-dimethyl-1-(benzenesulfonyl)tryptamine                                                                                                                                                         1
+5-Hydroxy-N,N-dimethyl-1-(benzenesulfonyl)tryptamine                                                                                                                                               1
+5-Methoxy-N,N-dimethyl-1-(benzenesulfonyl)tryptamine                                                                                                                                               1
+SpAMDA                                                                                                                                                                                             1
+Ocaperidone                                                                                                                                                                                        1
+N,N-Diethyl-1-(4-aminobenzenesulfonyl)tryptamine                                                                                                                                                   1
+5-Methoxy-N-benzyl-N-methyl-1-(4-aminobenzenesulfonyl)tryptamine                                                                                                                                   1
+Tryptamine, 5-methoxy-2me                                                                                                                                                                          1
+DMT,2-Me                                                                                                                                                                                           1
+5-Methoxy-2-n-propyl-DMT Oxalate                                                                                                                                                                   1
+5-Methoxy-1-(2-propyl)-DMT Maleate                                                                                                                                                                 1
+dipropyltryptamine                                                                                                                                                                                 1
+LSD, IODO                                                                                                                                                                                          1
+2-((2,5-Dimethoxy-4-methylphenethylamino)methyl)phenol hydrochloride                                                                                                                               1
+[3H] LSD                                                                                                                                                                                           1
+5-Methyltryptamine                                                                                                                                                                                 1
+TMA,2,4,5-                                                                                                                                                                                         1
+DOM,iso                                                                                                                                                                                            1
+DOB,OH-                                                                                                                                                                                            1
+DOB,BENZYLOXY-                                                                                                                                                                                     1
+DIPT,5-OH                                                                                                                                                                                          1
+DET,4-OH                                                                                                                                                                                           1
+5-Methoxy-N,N-dimethyl-1-(4-aminobenzenesulfonyl)tryptamine                                                                                                                                        1
+
+With 5-HT2A data: 153 compounds
+ligandname
+5-Hydroxy Tryptamine                                                                                                                                                                             56
+RISPERIDONE                                                                                                                                                                                      35
+LSD                                                                                                                                                                                              24
+5-Methoxytryptamine                                                                                                                                                                              21
+TRYPTAMINE                                                                                                                                                                                       18
+DMT,5-OH                                                                                                                                                                                         17
+Ziprasidone                                                                                                                                                                                      16
+DOI                                                                                                                                                                                              15
+DOB                                                                                                                                                                                              12
+DMT                                                                                                                                                                                              11
+DMT,5-MeO                                                                                                                                                                                         9
+MOLINDONE                                                                                                                                                                                         9
+DOMPERIDONE                                                                                                                                                                                       9
+DOM                                                                                                                                                                                               8
+9-OH-risperidone                                                                                                                                                                                  6
+ORG-5222                                                                                                                                                                                          5
+TRAZODONE                                                                                                                                                                                         5
+ILOPERIDONE                                                                                                                                                                                       5
+MELATONIN                                                                                                                                                                                         5
+MDMA                                                                                                                                                                                              5
+TRYPTAMINE,5-MeO,a-                                                                                                                                                                               4
+DOI,(-)                                                                                                                                                                                           4
+LSD,(-)                                                                                                                                                                                           4
+AMDA                                                                                                                                                                                              4
+LSD,(+)                                                                                                                                                                                           4
+LSD,2-Bromo                                                                                                                                                                                       3
+DOB,S(+)                                                                                                                                                                                          3
+DOB,R(-)                                                                                                                                                                                          3
+PSILOCIN                                                                                                                                                                                          3
+N-(3-Iodobenzyl)-2-(5-methoxy-1H-indol-3-yl)ethan-1-amine maleate                                                                                                                                 2
+1-Butylpsilocybin                                                                                                                                                                                 2
+DMT,4-MeO                                                                                                                                                                                         2
+MDA,R(-)                                                                                                                                                                                          2
+MDMA, R(-)                                                                                                                                                                                        2
+DOI,(+)                                                                                                                                                                                           2
+PSILOCYBIN                                                                                                                                                                                        2
+ORG-37684                                                                                                                                                                                         2
+1-Butylpsilocin                                                                                                                                                                                   2
+TRYPTAMINE,a-MeISO                                                                                                                                                                                2
+Nefazodone                                                                                                                                                                                        2
+1-Methylpsilocybin                                                                                                                                                                                2
+IBOGAINE                                                                                                                                                                                          2
+MDA                                                                                                                                                                                               2
+1-Methylpsilocin                                                                                                                                                                                  2
+4-Bromo-2,5-dimethoxyphenethylamine                                                                                                                                                               2
+MESCALINE                                                                                                                                                                                         2
+DMT,5-Me                                                                                                                                                                                          2
+TRYPTAMINE,a-Me(-)                                                                                                                                                                                2
+TRYPTAMINE,a-Me(+)                                                                                                                                                                                2
+TRYPTAMINE,a-Me                                                                                                                                                                                   2
+DET,5-MeO                                                                                                                                                                                         2
+DMT,5-MeO-7-M                                                                                                                                                                                     2
+TMA,3,4,5-                                                                                                                                                                                        2
+DMT,6-MeO                                                                                                                                                                                         2
+DMT,7-Br                                                                                                                                                                                          2
+DMT,7-MeO                                                                                                                                                                                         2
+DMT,7-OH                                                                                                                                                                                          2
+7-ethyl-N,N-diallyltryptamine                                                                                                                                                                     1
+4-Hydroxy-N,N-dimethyltryptamine                                                                                                                                                                  1
+N,N-diallyltryptamine                                                                                                                                                                             1
+5-methoxy-N,N-diallyltryptamine                                                                                                                                                                   1
+Ethyl(1S,2R,3S,4R,5S)-2,3-dihydroxy-4-(4-(phenethylamino)-2-(phenylethynyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)- bicyclo[3.1.0]hexane-1-carboxylate                                                  1
+(Â±)-(4aR,8S,8aR)-2-benzyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide                                                                                                1
+(1R,2R,3S,4R,5S)-4-(4-(Phenethylamino)-2-(phenylethynyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)bicyclo[3.1.0]hexane2,3-diol                                                                             1
+2-phenyl-N,N-diallyltryptamine                                                                                                                                                                    1
+5-fluoro-N,N-diallyltryptamine                                                                                                                                                                    1
+5-bromo-N,N-diallyltryptamine                                                                                                                                                                     1
+4-hydroxy-N,N-diallyltryptamine                                                                                                                                                                   1
+(Â±)-(4aR,8S,8aR)-2-cyclopropyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide                                                                                           1
+5-methoxy-2-fluoro-N,N-diallyltryptamine                                                                                                                                                          1
+3,4,5-Trimethoxyphenethylamine                                                                                                                                                                    1
+5-methoxy-2-methyl-N,N-diallyltryptamine                                                                                                                                                          1
+(Â±)-(4aR,8S,8aR)-2-butyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide                                                                                                 1
+4-acetoxy-N,N-diallyltryptamine                                                                                                                                                                   1
+Ethyl(3aR,3bS,4aS,5R,5aS)-2,2-dimethyl-5-(4-(phenethylamino)-2-(phenylethynyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)- tetrahydrocyclopropa[3,4]cyclopenta[1,2-d][1,3]dioxole-3b- (3aH)-carboxylate     1
+2C-BI-3                                                                                                                                                                                           1
+4-Ethyl-2,5-dimethoxyphenethylamine                                                                                                                                                               1
+4-Ethylthio-2,5-dimethoxyphenethylamine                                                                                                                                                           1
+8-((4-(3,4-Dihydroisoquinolin-2(1H)-yl)butyl) amino)-1,3-dimethyl-7-phenethyl-1H-purine2,6(3H,7H)-dione hydrochloride                                                                             1
+8-((3-(3,4-Dihydroisoquinolin-2(1H)-yl)propyl)amino)-1,3-dimethyl-7-phenethyl-1H-purine2,6(3H,7H)-dione hydrochloride                                                                             1
+1,3-Dimethyl-7-phenethyl-8-((4-(4-(3-chlorophenyl)piperazin-1-yl)butyl)amino)-1H-purine2,6(3H,7H)-dione hydrochloride                                                                             1
+1,3-Dimethyl-7-phenethyl-8-((4-(4-(2-methoxyphenyl)piperazin-1-yl)butyl)amino)-1H-purine2,6(3H,7H)-dione hydrochloride                                                                            1
+1,3-Dimethyl-7-phenethyl-8-((4-(4-phenylpiperazin-1-yl)butyl)amino)-1H-purine2,6(3H,7H)-dione hydrochloride                                                                                       1
+Mescaline-NBOMe                                                                                                                                                                                   1
+2,5-dimethoxy-4-isopropylthiophenethylamine                                                                                                                                                       1
+4-iodo-2,5-dimethoxyphenethylamine                                                                                                                                                                1
+2,5-dimethoxyphenethylamin                                                                                                                                                                        1
+2C-BI-12                                                                                                                                                                                          1
+2C-BI-11                                                                                                                                                                                          1
+2C-BI-10                                                                                                                                                                                          1
+2C-BI-8                                                                                                                                                                                           1
+2C-BI-7                                                                                                                                                                                           1
+2C-BI-5                                                                                                                                                                                           1
+2C-BI-4                                                                                                                                                                                           1
+Lurasidone                                                                                                                                                                                        1
+2C-BI-2                                                                                                                                                                                           1
+2C-BI-1                                                                                                                                                                                           1
+Donepezil                                                                                                                                                                                         1
+6-Fluoro-N,N-dimethyltryptamine                                                                                                                                                                   1
+N,N-Dipropyltryptamine                                                                                                                                                                            1
+5-Methoxy-N,N-diisopropyltryptamine                                                                                                                                                               1
+N,N-Diisopropyltryptamine                                                                                                                                                                         1
+5-Methoxy-N-methyl-N-isopropyltryptamine                                                                                                                                                          1
+D-lysergic acid diethylamide (LSD)                                                                                                                                                                1
+5-Methoxy-2-phenyl-DMT Oxalate                                                                                                                                                                    1
+(Z)-N-(2-(benzo[d][1,3]dioxol-4-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-4-phenylbut-3-en-1-amine                                                                                                     1
+N-(2-(benzo[d][1,3]dioxol-4-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3,4,5-trimethoxyphenyl)propan-1-amine                                                                                         1
+DOBz                                                                                                                                                                                              1
+DOCN                                                                                                                                                                                              1
+MDMA,S(+)                                                                                                                                                                                         1
+MDA,S(+)                                                                                                                                                                                          1
+LSD,l-                                                                                                                                                                                            1
+LSD, IODO                                                                                                                                                                                         1
+DOM,iso                                                                                                                                                                                           1
+DOB,OH-                                                                                                                                                                                           1
+DOB,BENZYLOXY-                                                                                                                                                                                    1
+DIPT,5-OH                                                                                                                                                                                         1
+DET,4-OH                                                                                                                                                                                          1
+AMT,(-)                                                                                                                                                                                           1
+AMT,(+)                                                                                                                                                                                           1
+5-OBzlTRYPTAMINE                                                                                                                                                                                  1
+3-AMTBI                                                                                                                                                                                           1
+MDEA                                                                                                                                                                                              1
+DOPR                                                                                                                                                                                              1
+DON                                                                                                                                                                                               1
+TMA                                                                                                                                                                                               1
+DOC                                                                                                                                                                                               1
+DOET                                                                                                                                                                                              1
+QDOB                                                                                                                                                                                              1
+Hydroxynefazodone                                                                                                                                                                                 1
+Pseudonorephedrine, (+) [cathine, (+)]                                                                                                                                                            1
+4-{[(4-Iodobenzyl)sulfanyl]methyl}-1H-imidazole                                                                                                                                                   1
+N-(2-(benzo[d][1,3]dioxol-4-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3-methoxyphenyl)propan-1-amine                                                                                                1
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3,4,5-trimethoxyphenyl)propan-1-amine                                                                                         1
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(2,5-dimethoxyphenyl)propan-1-amine                                                                                            1
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(4-methoxyphenyl)propan-1-amine                                                                                                1
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3-methoxyphenyl)propan-1-amine                                                                                                1
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(2-methoxyphenyl)propan-1-amine                                                                                                1
+N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-phenylpropan-1-amine                                                                                                           1
+2-(benzo[d][1,3]dioxol-5-yl)-N-(3,4-dimethoxyphenethyl)-N-phenethylethan-1-amine                                                                                                                  1
+2-(benzo[d][1,3]dioxol-5-yl)-N-benzyl-N-(3,4-dimethoxyphenethyl)ethan-1-amine                                                                                                                     1
+2-((2,5-Dimethoxy-4-methylphenethylamino)methyl)phenol hydrochloride                                                                                                                              1
+Pseudonorephedrine, (-) [cathine, (-)]                                                                                                                                                            1
+2-((4-Ethyl-2,5-dimethoxyphenethylamino)methyl)phenol hydrochloride                                                                                                                               1
+2-((2,5-Dimethoxy-4-propylphenethylamino)methyl)phenol hydrochloride                                                                                                                              1
+2-((2,5-Dimethoxy-4-(trifluoromethyl)phenethylamino)methyl)phenol hydrochloride                                                                                                                   1
+DOM,R(-)                                                                                                                                                                                          1
+DOET,(-)                                                                                                                                                                                          1
+N-(4-Acetamidophenyl)indomethacinamide                                                                                                                                                            1
+Acetylsalicylic acid                                                                                                                                                                              1
+DMT,2-Me-5-methoxy                                                                                                                                                                                1
+SpAMDA                                                                                                                                                                                            1
+8-(3-(4-(4-Fluorophenyl)piperazin-1-yl)propoxy)- 1,3-dimethyl-7-phenethyl-1H-purine-2,6(3H,7H)- dione hydrochloride                                                                               1
+
+Receptor coverage per Shulgin compound (all):
+  5-Hydroxy Tryptamine           (12 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT4, 5-HT6, 5-HT7
+  5-Methoxytryptamine            (12 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT4, 5-HT6, 5-HT7
+  Donepezil                      (11 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT4, 5-HT6, 5-HT7
+  TRYPTAMINE                     (11 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT4, 5-HT6, 5-HT7
+  RISPERIDONE                    (11 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  MDMA                           (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  4-Hydroxy-N,N-dimethyltryptamine (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  6-Fluoro-N,N-dimethyltryptamine (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  9-OH-risperidone               (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  DMT                            (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  DMT,5-MeO                      (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  4-Bromo-2,5-dimethoxyphenethylamine (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  Ethyl(1S,2R,3S,4R,5S)-2,3-dihydroxy-4-(4-(phenethylamino)-2-(phenylethynyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)- bicyclo[3.1.0]hexane-1-carboxylate (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  Ethyl(3aR,3bS,4aS,5R,5aS)-2,2-dimethyl-5-(4-(phenethylamino)-2-(phenylethynyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)- tetrahydrocyclopropa[3,4]cyclopenta[1,2-d][1,3]dioxole-3b- (3aH)-carboxylate (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  LSD                            (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  (1R,2R,3S,4R,5S)-4-(4-(Phenethylamino)-2-(phenylethynyl)-7H-pyrrolo[2,3-d]pyrimidin-7-yl)bicyclo[3.1.0]hexane2,3-diol (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  4-Ethyl-2,5-dimethoxyphenethylamine (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  Ziprasidone                    (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  PSILOCYBIN                     (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  (Â±)-(4aR,8S,8aR)-2-benzyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  TRAZODONE                      (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  (Â±)-(4aR,8S,8aR)-2-butyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  (Â±)-(4aR,8S,8aR)-2-cyclopropyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  N,N-Dipropyltryptamine         (10 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  5-fluoro-N,N-diallyltryptamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  4-Ethylthio-2,5-dimethoxyphenethylamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  4-acetoxy-N,N-diallyltryptamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  4-hydroxy-N,N-diallyltryptamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  5-Methoxy-N,N-diisopropyltryptamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT3, 5-HT6, 5-HT7
+  5-Methoxy-N-methyl-N-isopropyltryptamine ( 9 receptors): 5-HT1A, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  5-bromo-N,N-diallyltryptamine  ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  N,N-Diisopropyltryptamine      ( 9 receptors): 5-HT1A, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  5-methoxy-2-fluoro-N,N-diallyltryptamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  5-methoxy-2-methyl-N,N-diallyltryptamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  7-ethyl-N,N-diallyltryptamine  ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  Acetylsalicylic acid           ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  Pseudonorephedrine, (-) [cathine, (-)] ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  Pseudonorephedrine, (+) [cathine, (+)] ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  DOI                            ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6
+  ORG-5222                       ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  N-(4-Acetamidophenyl)indomethacinamide ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  N,N-diallyltryptamine          ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  5-methoxy-N,N-diallyltryptamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  DMT,5-OH                       ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1F, 5-HT2A, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  3,4,5-Trimethoxyphenethylamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  2-phenyl-N,N-diallyltryptamine ( 9 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  ILOPERIDONE                    ( 8 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT2A, 5-HT2C, 5-HT3, 5-HT6, 5-HT7
+  DMT,5-Me                       ( 8 receptors): 5-HT1B, 5-HT1D, 5-HT1E, 5-HT1F, 5-HT2A, 5-HT2C, 5-HT6, 5-HT7
+  DOB                            ( 7 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2B, 5-HT2C
+  DMT,2-Me-5-methoxy             ( 7 receptors): 5-HT1A, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2C, 5-HT6, 5-HT7
+  5-Methoxy-2-phenyl-DMT Oxalate ( 7 receptors): 5-HT1A, 5-HT1D, 5-HT1E, 5-HT2A, 5-HT2C, 5-HT6, 5-HT7
+  MDA,R(-)                       ( 6 receptors): 5-HT1A, 5-HT1B, 5-HT2A, 5-HT2B, 5-HT2C, 5-HT3
+  IBOGAINE                       ( 6 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT2A, 5-HT2C, 5-HT3
+  MOLINDONE                      ( 5 receptors): 5-HT1A, 5-HT2A, 5-HT2C, 5-HT6, 5-HT7
+  1-butanoyl-D-lysergic acid diethylamide (1B-LSD) ( 5 receptors): 5-HT1B, 5-HT1D, 5-HT2B, 5-HT6, 5-HT7
+  DOMPERIDONE                    ( 5 receptors): 5-HT1B, 5-HT1D, 5-HT2A, 5-HT2C, 5-HT3
+  LSD,l-                         ( 5 receptors): 5-HT1A, 5-HT1B, 5-HT1D, 5-HT2A, 5-HT2C
+  LSD,2-Bromo                    ( 5 receptors): 5-HT2A, 5-HT2B, 5-HT2C, 5-HT6, 5-HT7
+  DOB,R(-)                       ( 5 receptors): 5-HT1A, 5-HT1B, 5-HT2A, 5-HT2B, 5-HT2C
+  DOB,S(+)                       ( 5 receptors): 5-HT1A, 5-HT1B, 5-HT2A, 5-HT2B, 5-HT2C
+  MDMA, R(-)                     ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT2B, 5-HT3
+  DOET                           ( 4 receptors): 5-HT1A, 5-HT1B, 5-HT2A, 5-HT2C
+  LSD,(+)                        ( 4 receptors): 5-HT2A, 5-HT2C, 5-HT6, 5-HT7
+  MELATONIN                      ( 4 receptors): 5-HT2A, 5-HT2B, 5-HT2C, 5-HT7
+  MESCALINE                      ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT2B, 5-HT2C
+  DOI,(-)                        ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT2B, 5-HT2C
+  DOM                            ( 4 receptors): 5-HT1A, 5-HT1B, 5-HT2A, 5-HT2C
+  8-((4-(3,4-Dihydroisoquinolin-2(1H)-yl)butyl) amino)-1,3-dimethyl-7-phenethyl-1H-purine2,6(3H,7H)-dione hydrochloride ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT6, 5-HT7
+  8-((3-(3,4-Dihydroisoquinolin-2(1H)-yl)propyl)amino)-1,3-dimethyl-7-phenethyl-1H-purine2,6(3H,7H)-dione hydrochloride ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT6, 5-HT7
+  8-(3-(4-(4-Fluorophenyl)piperazin-1-yl)propoxy)- 1,3-dimethyl-7-phenethyl-1H-purine-2,6(3H,7H)- dione hydrochloride ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT6, 5-HT7
+  DOM,R(-)                       ( 4 receptors): 5-HT1B, 5-HT2A, 5-HT2B, 5-HT2C
+  1,3-Dimethyl-7-phenethyl-8-((4-(4-phenylpiperazin-1-yl)butyl)amino)-1H-purine2,6(3H,7H)-dione hydrochloride ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT6, 5-HT7
+  PSILOCIN                       ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT2B, 5-HT2C
+  DOPR                           ( 4 receptors): 5-HT1B, 5-HT2A, 5-HT2B, 5-HT2C
+  1,3-Dimethyl-7-phenethyl-8-((4-(4-(3-chlorophenyl)piperazin-1-yl)butyl)amino)-1H-purine2,6(3H,7H)-dione hydrochloride ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT6, 5-HT7
+  1,3-Dimethyl-7-phenethyl-8-((4-(4-(2-methoxyphenyl)piperazin-1-yl)butyl)amino)-1H-purine2,6(3H,7H)-dione hydrochloride ( 4 receptors): 5-HT1A, 5-HT2A, 5-HT6, 5-HT7
+  TMA,3,4,5-                     ( 3 receptors): 5-HT1B, 5-HT2A, 5-HT2B
+  MDEA                           ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  MDA                            ( 3 receptors): 5-HT1B, 5-HT2A, 5-HT2C
+  Lurasidone                     ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT7
+  QDOB                           ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  TMA                            ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  (Z)-N-(2-(benzo[d][1,3]dioxol-4-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-4-phenylbut-3-en-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3,4,5-trimethoxyphenyl)propan-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  2C-BI-5                        ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  DOBU                           ( 3 receptors): 5-HT1A, 5-HT1B, 5-HT2C
+  DOBz                           ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  DOC                            ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  DOCN                           ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  4-{[(4-Iodobenzyl)sulfanyl]methyl}-1H-imidazole ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  4-iodo-2,5-dimethoxyphenethylamine ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  2C-BI-7                        ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  DOI,(+)                        ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  2C-BI-8                        ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  2C-BI-4                        ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3-methoxyphenyl)propan-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  ORG-37684                      ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  Nefazodone                     ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(2-methoxyphenyl)propan-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  2C-BI-12                       ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  2C-BI-11                       ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  2C-BI-10                       ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  2C-BI-1                        ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  2C-BI-2                        ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(2,5-dimethoxyphenyl)propan-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  2-(benzo[d][1,3]dioxol-5-yl)-N-benzyl-N-(3,4-dimethoxyphenethyl)ethan-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  2C-BI-3                        ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(4-methoxyphenyl)propan-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  N-(2-(benzo[d][1,3]dioxol-5-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-phenylpropan-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  2-(benzo[d][1,3]dioxol-5-yl)-N-(3,4-dimethoxyphenethyl)-N-phenethylethan-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  N-(2-(benzo[d][1,3]dioxol-4-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3-methoxyphenyl)propan-1-amine ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  2,5-dimethoxy-4-isopropylthiophenethylamine ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  1-Butylpsilocybin              ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  1-Methylpsilocin               ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  D-lysergic acid diethylamide (LSD) ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  1-Methylpsilocybin             ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  Mescaline-NBOMe                ( 3 receptors): 5-HT1A, 5-HT2A, 5-HT2C
+  1-Butylpsilocin                ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  DON                            ( 3 receptors): 5-HT2A, 5-HT2B, 5-HT2C
+  Hydroxynefazodone              ( 2 receptors): 5-HT1A, 5-HT2A
+  N-(2-(benzo[d][1,3]dioxol-4-yl)ethyl)-N-(3,4-dimethoxyphenethyl)-3-(3,4,5-trimethoxyphenyl)propan-1-amine ( 2 receptors): 5-HT2A, 5-HT2B
+  MDA,S(+)                       ( 2 receptors): 5-HT2A, 5-HT2B
+  MDMA,S(+)                      ( 2 receptors): 5-HT2A, 5-HT2B
+  N-(3-Iodobenzyl)-2-(5-methoxy-1H-indol-3-yl)ethan-1-amine maleate ( 2 receptors): 5-HT2A, 5-HT2C
+  (1S,2R,3S,4R,5S)-N-(3-Acetamidopropyl)-4-(2-chloro-6- ((dicyclopropylmethyl)amino)-9H-purin-9-yl)-2,3-dihydroxybicyclo- [3.1.0]hexane-1-carboxamide ( 2 receptors): 5-HT2B, 5-HT2C
+  HARMINE                        ( 2 receptors): 5-HT1D, 5-HT2C
+  3-AMTBI                        ( 2 receptors): 5-HT1A, 5-HT2A
+  2-Br LSD                       ( 2 receptors): 5-HT6, 5-HT7
+  2,5-dimethoxyphenethylamine    ( 2 receptors): 5-HT1A, 5-HT2C
+  2-((2,5-Dimethoxy-4-(trifluoromethyl)phenethylamino)methyl)phenol hydrochloride ( 2 receptors): 5-HT2A, 5-HT2C
+  (1S,2R,3S,4R,5S)-N-(2-Acetamidoethyl)-4-(2-chloro-6- ((dicyclopropylmethyl)amino)-9H-purin-9-yl)-2,3-dihydroxybicyclo- [3.1.0]hexane-1-carboxamide ( 2 receptors): 5-HT2B, 5-HT2C
+  DOET,(-)                       ( 2 receptors): 5-HT2A, 5-HT2B
+  AMDA                           ( 2 receptors): 5-HT2A, 5-HT2C
+  2-((2,5-Dimethoxy-4-propylphenethylamino)methyl)phenol hydrochloride ( 2 receptors): 5-HT2A, 5-HT2C
+  2-((4-Ethyl-2,5-dimethoxyphenethylamino)methyl)phenol hydrochloride ( 2 receptors): 5-HT2A, 5-HT2C
+  5-Methoxy-N,N-diethyl-1-(4-aminobenzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  5-Methoxy-1-(2-propyl)-DMT Maleate ( 1 receptors): 5-HT6
+  (Â±)-(4aS,8R,8aS)-N-(4-chloro-3-(trifluoromethyl)phenyl)-1-oxo-2-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide ( 1 receptors): 5-HT2B
+  5-Methoxy-2-n-propyl-DMT Oxalate ( 1 receptors): 5-HT6
+  5-Methoxy-N,N-diethyl-1-(4-acetamidobenzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  5-Methoxy-N,N-diethyl-1-(benzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  PINDOBIND-5-HT1A               ( 1 receptors): 5-HT7
+  Ocaperidone                    ( 1 receptors): 5-HT1A
+  5-Methoxy-N,N-dimethyl-1-(4-acetamidobenzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  5-Methoxy-N,N-dimethyl-1-(4-aminobenzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  5-Methoxy-N,N-dimethyl-1-(benzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  5-Methoxy-N-benzyl-N-methyl-1-(4-aminobenzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  (Â±)-(4aS,8R,8aS)-2-butyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide ( 1 receptors): 5-HT2C
+  TMA,2,3,5-                     ( 1 receptors): 5-HT2C
+  SpAMDA                         ( 1 receptors): 5-HT2A
+  TRYPTAMINE,a-Me(+)             ( 1 receptors): 5-HT2A
+  [3H] LSD                       ( 1 receptors): 5-HT2B
+  3,4,5-Trimethoxyphenethylami   ( 1 receptors): 5-HT2B
+  Vilazodone                     ( 1 receptors): 5-HT1A
+  Tryptamine, 5-methoxy-2me      ( 1 receptors): 5-HT6
+  TRYPTAMINE,a-MeISO             ( 1 receptors): 5-HT2A
+  TRYPTAMINE,a-Me(-)             ( 1 receptors): 5-HT2A
+  TRYPTAMINE,a-Me                ( 1 receptors): 5-HT2A
+  5-MeOT,N,N tryptamine          ( 1 receptors): 5-HT7
+  TRYPTAMINE,5-MeO,a-            ( 1 receptors): 5-HT2A
+  5-Hydroxy-N,N-dimethyl-1-(benzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  (Â±)-(4aS,8R,8aS)-2-benzyl-1-oxo-N-phenethyl-1,2,3,4,4a,7,8,8a-octahydroisoquinoline-8-carboxamide ( 1 receptors): 5-HT2C
+  5-M-N,N-DMT                    ( 1 receptors): 5-HT1A
+  TMA,2,4,5-                     ( 1 receptors): 5-HT1B
+  5-Methoxy-N-methyl-1-(benzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  5-Methoxy-N-benzyl-N-methyl-1-(benzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  Etoperidone                    ( 1 receptors): 5-HT1A
+  5-Methyltryptamine             ( 1 receptors): 5-HT2B
+  2-((2,5-Dimethoxy-4-methylphenethylamino)methyl)phenol hydrochloride ( 1 receptors): 5-HT2A
+  DOM,iso                        ( 1 receptors): 5-HT2A
+  2,4,5-TMA                      ( 1 receptors): 5-HT1A
+  LSD, IODO                      ( 1 receptors): 5-HT2A
+  LSD,(-)                        ( 1 receptors): 5-HT2A
+  DOB,OH-                        ( 1 receptors): 5-HT2A
+  LSD,2-iodo                     ( 1 receptors): 5-HT2C
+  DOB,BENZYLOXY-                 ( 1 receptors): 5-HT2A
+  DMT,7-OH                       ( 1 receptors): 5-HT2A
+  DMT,7-MeO                      ( 1 receptors): 5-HT2A
+  MDA, (R,S)                     ( 1 receptors): 5-HT2B
+  DMT,7-Br                       ( 1 receptors): 5-HT2A
+  DMT,6-MeO                      ( 1 receptors): 5-HT2A
+  DMT,5-MeO-7-M                  ( 1 receptors): 5-HT2A
+  DMT,4-MeO                      ( 1 receptors): 5-HT2A
+  5-OBzlTRYPTAMINE               ( 1 receptors): 5-HT2A
+  DMT,2-Me                       ( 1 receptors): 5-HT6
+  DIPT,5-OH                      ( 1 receptors): 5-HT2A
+  DET,5-MeO                      ( 1 receptors): 5-HT2A
+  N,N-Diethyl-1-(4-acetamidobenzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  N,N-Diethyl-1-(4-aminobenzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  DET,4-OH                       ( 1 receptors): 5-HT2A
+  N,N-Dimethyl-1-(4-acetamidobenzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  N,N-Dimethyl-1-(4-aminobenzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  AMT,(-)                        ( 1 receptors): 5-HT2A
+  N,N-dimethyl-1-(benzenesulfonyl)tryptamine ( 1 receptors): 5-HT6
+  AMT,(+)                        ( 1 receptors): 5-HT2A
+  2,5-dimethoxyphenethylamin     ( 1 receptors): 5-HT2A
+  5-OH-ME-Nw Tryptamine          ( 1 receptors): 5-HT7
+  dipropyltryptamine             ( 1 receptors): 5-HT1A
+
+Ki value sample (first 20):
+ligandname   name   kival kinote
+       DMT 5-HT1A  119.51    NaN
+       DMT 5-HT1A  140.74    NaN
+       DMT 5-HT1A  245.00    NaN
+       DOB 5-HT1A 3770.00    NaN
+       DOB 5-HT1A 6326.73    NaN
+       DOB 5-HT1A 3770.00    NaN
+      DOET 5-HT1A 3930.00    NaN
+       DOI 5-HT1A 2355.00    NaN
+       LSD 5-HT1A    2.57    NaN
+       LSD 5-HT1A    1.20    NaN
+       LSD 5-HT1A    0.31    NaN
+       LSD 5-HT1A    0.64    NaN
+       LSD 5-HT1A    2.05    NaN
+       LSD 5-HT1A    0.43    NaN
+       LSD 5-HT1A    2.57    NaN
+       LSD 5-HT1A    3.90    NaN
+       LSD 5-HT1A    4.10    NaN
+       LSD 5-HT1A    4.92    NaN
+       DOB 5-HT2C   69.00    NaN
+       DOB 5-HT2C   69.00    NaN
+
+Ki note values (what modifiers exist):
+kinote
+>    262
+
+Saved analysis/shulgin_hits.csv (1945 records)

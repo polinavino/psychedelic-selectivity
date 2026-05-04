@@ -1,0 +1,154 @@
+Loaded training data: 46 compounds from ../analysis/combined_dataset.csv
+Training compounds with log_bias and SMILES: 46
+Training fingerprints: (46, 306) (306 informative bits)
+Lasso model trained (alpha=0.01)
+Training log_bias range: -0.596 to 0.864
+
+SMILES validation:
+  OK: serotonin
+  OK: tryptamine
+  OK: melatonin
+  OK: DMT
+  OK: 5-MeO-DMT
+  OK: bufotenine
+  OK: psilocin
+  OK: 5-Me-DMT
+  OK: 6-F-DMT
+  OK: LSD
+  OK: LSD (+)
+  OK: 2-Bromo-LSD
+  OK: psilocybin
+  OK: DPT
+  OK: DiPT
+  OK: 5-MeO-DiPT
+  OK: 5-MeO-MiPT
+  OK: 5-MeO-T
+  OK: AMT
+  OK: AMT (+)
+  OK: AMT (-)
+  OK: DALT
+  OK: 5-MeO-DALT
+  OK: 5-F-DALT
+  OK: 5-Br-DALT
+  OK: 4-HO-DALT
+  OK: 4-AcO-DALT
+  OK: 2-Ph-DALT
+  OK: 7-Et-DALT
+  OK: 5-MeO-2-Me-DALT
+  OK: 5-MeO-2-F-DALT
+  OK: ibogaine
+  OK: mescaline
+  OK: MDMA
+  OK: MDA
+  OK: MDA R(-)
+  OK: MDA (R,S)
+  OK: DOB
+  OK: DOI
+  OK: DOM
+  OK: DOET
+  OK: 2C-B
+  OK: 2C-E
+  OK: 2C-T-2
+  OK: 2C-H
+
+All 45 SMILES valid.
+
+Shulgin compounds to predict: 36
+
+SMILES source per compound:
+  2-Bromo-LSD               [manual]
+  2-Ph-DALT                 [manual]
+  2C-B                      [manual]
+  2C-E                      [manual]
+  2C-T-2                    [manual]
+  4-AcO-DALT                [manual]
+  4-HO-DALT                 [manual]
+  5-Br-DALT                 [manual]
+  5-F-DALT                  [manual]
+  5-Me-DMT                  [manual]
+  5-MeO-2-F-DALT            [manual]
+  5-MeO-2-Me-DALT           [manual]
+  5-MeO-DALT                [manual]
+  5-MeO-DMT                 [manual]
+  5-MeO-DiPT                [manual]
+  5-MeO-MiPT                [manual]
+  5-MeO-T                   [manual]
+  6-F-DMT                   [manual]
+  7-Et-DALT                 [manual]
+  DALT                      [manual]
+  DMT                       [manual]
+  DOB                       [manual]
+  DOET                      [manual]
+  DOI                       [manual]
+  DOM                       [manual]
+  DPT                       [manual]
+  DiPT                      [manual]
+  LSD                       [manual]
+  LSD (+)                   [manual]
+  MDA R(-)                  [manual]
+  MDMA                      [manual]
+  bufotenine                [manual]
+  psilocin                  [manual]
+  psilocybin                [manual]
+  serotonin                 [manual]
+  tryptamine                [manual]
+
+SMILES available: 36 / 36
+Missing: []
+
+========================================================================
+PREDICTED SIGNALLING BIAS — Shulgin compounds at 5-HT2A
+========================================================================
+
+Parameters: RADIUS=2, N_BITS=2048, LASSO_ALPHA=0.01
+Bias threshold: |log_bias| > 0.3
+
+*** CAVEAT: model R²=0.78 LOO-CV but R²<0 LOSO-CV — cross-series
+    predictions are exploratory only. ***
+
+Compound                predLogBias Class            2A-2B  Top rec
+------------------------------------------------------------------------
+  DOM                        +0.362 barr-biased        n/a  5-HT2A
+  DOB                        +0.362 barr-biased      +0.49  5-HT2A
+  MDA R(-)                   +0.362 barr-biased      -1.35  5-HT2B
+  DOET                       +0.362 barr-biased        n/a  5-HT2A
+  DOI                        +0.362 barr-biased      +0.46  5-HT2A
+  MDMA                       +0.342 barr-biased      -0.96  5-HT2B
+  2C-B                       +0.342 barr-biased      -0.06  5-HT2B
+  2C-E                       +0.342 barr-biased      -0.24  5-HT2B
+  2C-T-2                     +0.342 barr-biased      -0.82  5-HT2B
+  2-Bromo-LSD                +0.040 balanced         +0.81  5-HT2A
+  5-MeO-2-F-DALT             -0.012 balanced         -1.59  5-HT2B
+  psilocybin                 -0.012 balanced         +1.27  5-HT2A
+  4-AcO-DALT                 -0.012 balanced         -0.95  5-HT2B
+  4-HO-DALT                  -0.024 balanced         +0.60  5-HT6
+  psilocin                   -0.024 balanced         -1.86  5-HT2B
+  5-MeO-2-Me-DALT            -0.045 balanced         -0.68  5-HT6
+  LSD                        -0.055 balanced         +0.84  5-HT1A
+  LSD (+)                    -0.055 balanced           n/a  5-HT6
+  2-Ph-DALT                  -0.201 balanced         +1.17  5-HT2A
+  5-MeO-MiPT                 -0.218 balanced         -0.88  5-HT1A
+  5-MeO-DMT                  -0.218 balanced         +0.76  5-HT7
+  5-MeO-DALT                 -0.218 balanced         -0.57  5-HT1A
+  5-Me-DMT                   -0.218 balanced           n/a  5-HT7
+  5-F-DALT                   -0.218 balanced         -1.19  5-HT2B
+  5-Br-DALT                  -0.218 balanced         -0.95  5-HT1A
+  5-MeO-DiPT                 -0.218 balanced           n/a  5-HT1A
+  5-MeO-T                    -0.218 balanced         -1.98  5-HT7
+  bufotenine                 -0.226 balanced           n/a  5-HT1D
+  6-F-DMT                    -0.230 balanced         -1.46  5-HT6
+  7-Et-DALT                  -0.231 balanced         -1.37  5-HT2B
+  DiPT                       -0.235 balanced           n/a  5-HT1A
+  DPT                        -0.235 balanced         -1.79  5-HT1A
+  DMT                        -0.235 balanced         -0.19  5-HT7
+  DALT                       -0.235 balanced         -1.06  5-HT2B
+  tryptamine                 -0.235 balanced         -0.75  5-HT7
+  serotonin                  -0.242 balanced         -1.24  5-HT7
+
+Bias class distribution:
+bias_class
+balanced       27
+barr-biased     9
+
+Predicted log_bias range: -0.242 to 0.362
+Saved analysis/bias_vs_selectivity.png
