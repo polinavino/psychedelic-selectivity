@@ -1,0 +1,59 @@
+Ariadne Selectivity Analysis — Cunningham et al. ACS Chem Neurosci 2023
+======================================================================
+Data file:       data/cunningham2023_data.csv
+Primary assay:   gq_bret
+S-score threshold: pEC50 < 6.5 (EC50 > 316.2 nM)
+Records loaded:  53
+
+
+======================================================================
+Selectivity profiles — gq_bret, 5-HT2A/2B/2C receptors
+======================================================================
+
+Compound              S-score     Gini  Entropy    Ratio  Top receptor
+-----------------------------------------------------------------
+  5-HT                  0.000    0.040    0.842    1.114  5-HT2C
+  (rac)-Ariadne         0.333    0.023    0.997    1.012  5-HT2A
+  (R)-Ariadne           0.333    0.024    0.974    1.034  5-HT2A
+  (S)-Ariadne           0.333    0.020    0.982    1.024  5-HT2C
+
+Correlations between selectivity definitions (n=4 — direction only):
+         s_score   gini  entropy  ratio
+s_score    1.000 -0.982    0.991 -0.981
+gini      -0.982  1.000   -0.971  0.964
+entropy    0.991 -0.971    1.000 -0.998
+ratio     -0.981  0.964   -0.998  1.000
+
+
+======================================================================
+Alpha-alkyl series at 5-HT2A (Gq and beta-arrestin2)
+======================================================================
+
+Compound                  alpha   Gq EC50   Gq Emax  barr EC50  barr Emax   logBias  Halluc?
+--------------------------------------------------------------------------------------------
+  DOM                          Me      28.7      96.0      135.0      103.0    -0.642      YES
+  (rac)-Ariadne                Et     177.0      80.4      635.0       82.9    -0.542       no
+  5C-D                        nPr     291.0      68.8        nan        nan       n/a       no
+  4C-Pr                        Et      35.6      84.0       83.8       84.7    -0.368       no
+  DOPr                         Me       1.5      98.9        8.0       99.8    -0.721      YES
+  4C-I                         Et      15.5      86.6       40.1       79.7    -0.449       no
+  DOI                          Me       1.4      97.7        7.7       99.0    -0.735      YES
+
+
+======================================================================
+4-position analogs: 5-HT2A vs 5-HT2B selectivity (Gq BRET)
+======================================================================
+
+Compound               2A EC50   2A Emax   2B EC50   2B Emax  pEC50 2A-2B
+------------------------------------------------------------------------
+  4C-D (Ariadne)           182.0      79.1     853.0      77.5        +0.67
+  4C-TFM                    28.6      79.9     234.0      83.4        +0.91
+  4C-Pr                     35.6      84.0     290.0      38.3        +0.91
+  4C-cycPr                 153.0      75.0     757.0      63.3        +0.69
+  4C-MOM                   441.0      77.8     425.0      43.0        -0.02
+
+  4C-TFM: 8-fold 2A/2B selectivity (pEC50 diff = 0.91) — most selective analog.
+Saved analysis/ariadne_gq_vs_caflux.png
+Saved analysis/ariadne_alpha_series.png
+Saved analysis/ariadne_profiles.png
+Saved analysis/ariadne_selectivity_scores.png
