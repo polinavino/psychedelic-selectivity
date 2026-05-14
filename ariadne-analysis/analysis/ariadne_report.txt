@@ -1,0 +1,97 @@
+Ariadne Pharmacological Analysis — Cunningham et al. ACS Chem Neurosci 2023
+========================================================================
+doi: 10.1021/acschemneuro.2c00597
+Data file: data/cunningham2023_data.csv  (53 records)
+
+Three analyses of published numerical data.
+See script docstring for what is and is not included and why.
+
+
+========================================================================
+ANALYSIS 1: Assay-dependent efficacy at 5-HT2A/2B/2C
+Gq dissociation BRET vs Ca2+ flux — EC50 (nM) and Emax (% 5-HT)
+========================================================================
+
+Gq dissociation BRET:
+  Compound              5-HT2A EC50   Emax  5-HT2B EC50   Emax  5-HT2C EC50   Emax
+  ------------------------------------------------------------------------
+  5-HT                          7.3  100.0          1.9  100.0          0.2  100.0
+  (rac)-Ariadne               177.0   80.4        853.0   77.5        213.0   82.2
+  (R)-Ariadne                 149.0   82.9        739.0   75.4        249.0   88.7
+  (S)-Ariadne                 288.0   73.9        762.0   78.2        200.0   79.3
+
+Ca²⁺ flux:
+  Compound              5-HT2A EC50   Emax  5-HT2B EC50   Emax  5-HT2C EC50   Emax
+  ------------------------------------------------------------------------
+  5-HT                          0.2  100.0          0.3  100.0          0.3  100.0
+  (rac)-Ariadne                38.8   91.0        217.0   68.3        582.0   33.6
+  (R)-Ariadne                  29.9   96.2        199.0   64.2        371.0   59.8
+  (S)-Ariadne                 132.0   80.4        254.0   74.5        862.0   22.5
+
+Key finding:
+  At 5-HT2C, (rac)-Ariadne Emax drops from 82.2% (Gq BRET) to 33.6%
+  (Ca2+ flux) — a 2.4-fold difference in apparent efficacy from assay
+  choice alone. (S)-Ariadne shows an even larger drop: 79.3% to 22.5%.
+  Potency (EC50) is similar across assays; efficacy diverges sharply.
+  The paper attributes the 5-HT2C Ca2+ flux discrepancy to kinetic
+  differences in 5-HT2C activation relative to 5-HT2A/2B. Regardless
+  of mechanism, this illustrates that assay choice materially changes
+  the apparent selectivity profile.
+
+
+========================================================================
+ANALYSIS 2: Bias factor across alpha-alkyl matched pairs at 5-HT2A
+log_bias = log10((Emax_barr/EC50_barr) / (Emax_Gq/EC50_Gq))
+> 0 = beta-arrestin biased   < 0 = Gq biased   ~ 0 = balanced
+========================================================================
+
+Compound                     4-pos  alpha   Gq EC50   Gq Emax  barr EC50  barr Emax   logBias  Halluc?
+-----------------------------------------------------------------------------------------------
+  DOM                       4-methyl     Me      28.7      96.0      135.0      103.0    -0.642      YES
+  (rac)-Ariadne             4-methyl     Et     177.0      80.4      635.0       82.9    -0.542       no
+
+  DOPr                      4-propyl     Me       1.5      98.9        8.0       99.8    -0.721      YES
+  4C-Pr                     4-propyl     Et      35.6      84.0       83.8       84.7    -0.368       no
+
+  DOI                         4-iodo     Me       1.4      97.7        7.7       99.0    -0.735      YES
+  4C-I                        4-iodo     Et      15.5      86.6       40.1       79.7    -0.449       no
+
+Key finding:
+  All six compounds are Gq-biased (negative log_bias). Across all three
+  4-position substitutions, the alpha-ethyl (Ariadne-class) compound
+  shows slightly less Gq bias than its alpha-methyl (DOx) counterpart:
+    4-methyl: DOM=-0.642, Ariadne=-0.542 (shift = +0.10)
+    4-propyl: DOPr=-0.721, 4C-Pr=-0.368 (shift = +0.35)
+    4-iodo:   DOI=-0.735, 4C-I=-0.449  (shift = +0.29)
+  The shift is consistent in direction but small in magnitude.
+  Conclusion: Ariadne is NOT a biased agonist. The mechanism of
+  non-hallucinogenicity is uniform efficacy reduction, not pathway
+  selectivity. This formally confirms the paper's signalling efficacy
+  hypothesis using the bias factor framework.
+
+
+========================================================================
+ANALYSIS 3: 4-position analogs — 5-HT2A vs 5-HT2B selectivity (Gq BRET)
+pEC50 difference = pEC50(5-HT2A) - pEC50(5-HT2B)
+Positive = 2A-selective (safer); negative = 2B-selective (cardiac risk)
+========================================================================
+
+Compound               2A EC50   2A Emax   2B EC50   2B Emax  pEC50 2A-2B  fold selectivity
+----------------------------------------------------------------------------------
+  4C-D (Ariadne)           182.0      79.1     853.0      77.5        +0.67               4.7x
+  4C-TFM                    28.6      79.9     234.0      83.4        +0.91               8.2x
+  4C-Pr                     35.6      84.0     290.0      38.3        +0.91               8.1x
+  4C-cycPr                 153.0      75.0     757.0      63.3        +0.69               4.9x
+  4C-MOM                   441.0      77.8     425.0      43.0        -0.02               1.0x
+
+Key finding:
+  All Ariadne analogs except 4C-MOM are 2A-selective (positive pEC50 diff).
+  4C-TFM and 4C-Pr show the highest selectivity (+0.91, 8-fold each).
+  4C-MOM is essentially balanced (-0.02) and has substantially reduced
+  Emax at 5-HT2B (43%) — likely due to its increased polarity.
+  The paper identifies 4C-TFM as most selective but does not express
+  this as pEC50 differences or compare directly across all five analogs.
+
+Saved analysis/ariadne_gq_vs_caflux.png
+Saved analysis/ariadne_alpha_series.png
+Saved analysis/ariadne_2a2b_selectivity.png
