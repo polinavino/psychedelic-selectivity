@@ -1,0 +1,54 @@
+compound,assay,receptor,ec50_nM,emax_pct,source_figure,notes
+5-HT,ca_flux,5-HT2A,0.173,100.0,Fig2d,reference agonist
+5-HT,ca_flux,5-HT2B,0.333,100.0,Fig2d,reference agonist
+5-HT,ca_flux,5-HT2C,0.303,100.0,Fig2d,reference agonist
+5-HT,gq_bret,5-HT2A,7.31,100.0,Fig2d,reference agonist
+5-HT,gq_bret,5-HT2B,1.89,100.0,Fig2d,reference agonist
+5-HT,gq_bret,5-HT2C,0.190,100.0,Fig2d,reference agonist
+(rac)-Ariadne,ca_flux,5-HT2A,38.8,91.0,Fig2d,
+(rac)-Ariadne,ca_flux,5-HT2B,217.0,68.3,Fig2d,
+(rac)-Ariadne,ca_flux,5-HT2C,582.0,33.6,Fig2d,
+(rac)-Ariadne,gq_bret,5-HT2A,177.0,80.4,Fig2d,
+(rac)-Ariadne,gq_bret,5-HT2B,853.0,77.5,Fig2d,
+(rac)-Ariadne,gq_bret,5-HT2C,213.0,82.2,Fig2d,
+(R)-Ariadne,ca_flux,5-HT2A,29.9,96.2,Fig2d,
+(R)-Ariadne,ca_flux,5-HT2B,199.0,64.2,Fig2d,
+(R)-Ariadne,ca_flux,5-HT2C,371.0,59.8,Fig2d,
+(R)-Ariadne,gq_bret,5-HT2A,149.0,82.9,Fig2d,
+(R)-Ariadne,gq_bret,5-HT2B,739.0,75.4,Fig2d,
+(R)-Ariadne,gq_bret,5-HT2C,249.0,88.7,Fig2d,
+(S)-Ariadne,ca_flux,5-HT2A,132.0,80.4,Fig2d,
+(S)-Ariadne,ca_flux,5-HT2B,254.0,74.5,Fig2d,
+(S)-Ariadne,ca_flux,5-HT2C,862.0,22.5,Fig2d,
+(S)-Ariadne,gq_bret,5-HT2A,288.0,73.9,Fig2d,
+(S)-Ariadne,gq_bret,5-HT2B,762.0,78.2,Fig2d,
+(S)-Ariadne,gq_bret,5-HT2C,200.0,79.3,Fig2d,
+DOM,gq_bret,5-HT2A,28.7,96.0,Fig3a,hallucinogenic alpha-methyl
+DOM,barr2_bret,5-HT2A,135.0,103.0,Fig3a,hallucinogenic alpha-methyl
+(rac)-Ariadne,barr2_bret,5-HT2A,635.0,82.9,Fig3a,non-hallucinogenic alpha-ethyl
+DOPr,gq_bret,5-HT2A,1.5,98.9,Fig3b,hallucinogenic alpha-methyl 4-propyl
+DOPr,barr2_bret,5-HT2A,7.96,99.8,Fig3b,hallucinogenic alpha-methyl 4-propyl
+4C-Pr,gq_bret,5-HT2A,35.6,84.0,Fig3b,non-hallucinogenic alpha-ethyl 4-propyl
+4C-Pr,barr2_bret,5-HT2A,83.8,84.7,Fig3b,non-hallucinogenic alpha-ethyl 4-propyl
+DOI,gq_bret,5-HT2A,1.40,97.7,Fig3c,hallucinogenic alpha-methyl 4-iodo
+DOI,barr2_bret,5-HT2A,7.70,99.0,Fig3c,hallucinogenic alpha-methyl 4-iodo
+4C-I,gq_bret,5-HT2A,15.5,86.6,Fig3c,non-hallucinogenic alpha-ethyl 4-iodo
+4C-I,barr2_bret,5-HT2A,40.1,79.7,Fig3c,non-hallucinogenic alpha-ethyl 4-iodo
+5C-D,gq_bret,5-HT2A,291.0,68.8,Fig3d,non-hallucinogenic alpha-propyl 4-methyl
+4C-D (Ariadne),gq_bret,5-HT2A,182.0,79.1,Fig5c,4-methyl
+4C-D (Ariadne),gq_bret,5-HT2B,853.0,77.5,Fig5c,4-methyl
+4C-D (Ariadne),gq_bret,5-HT2C,222.0,82.3,Fig5c,4-methyl
+4C-TFM,gq_bret,5-HT2A,28.6,79.9,Fig5c,4-trifluoromethyl 8x selective 2A over 2B
+4C-TFM,gq_bret,5-HT2B,234.0,83.4,Fig5c,4-trifluoromethyl
+4C-TFM,gq_bret,5-HT2C,63.4,89.8,Fig5c,4-trifluoromethyl
+4C-Pr,gq_bret,5-HT2B,290.0,38.3,Fig5c,4-propyl
+4C-Pr,gq_bret,5-HT2C,26.4,85.0,Fig5c,4-propyl
+4C-cycPr,gq_bret,5-HT2A,153.0,75.0,Fig5c,4-cyclopropyl
+4C-cycPr,gq_bret,5-HT2B,757.0,63.3,Fig5c,4-cyclopropyl
+4C-cycPr,gq_bret,5-HT2C,232.0,75.1,Fig5c,4-cyclopropyl
+4C-MOM,gq_bret,5-HT2A,441.0,77.8,Fig5c,4-methoxymethyl
+4C-MOM,gq_bret,5-HT2B,425.0,43.0,Fig5c,4-methoxymethyl
+4C-MOM,gq_bret,5-HT2C,269.0,81.9,Fig5c,4-methoxymethyl
+(rac)-Ariadne,ki,5-HT2A,120.0,,Fig2a,Ki nM radioligand displacement
+(R)-Ariadne,ki,5-HT2A,53.0,,Fig2a,Ki nM radioligand displacement
+(S)-Ariadne,ki,5-HT2A,220.0,,Fig2a,Ki nM radioligand displacement

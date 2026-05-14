@@ -1,0 +1,54 @@
+Cunningham et al. ACS Chem Neurosci 2023 — Data extraction notes
+doi: 10.1021/acschemneuro.2c00597
+Extracted by: Polina Vino
+Date: 2026
+
+Column definitions
+------------------
+compound      : compound name as used in the paper
+assay         : gq_bret     = Gq protein dissociation BRET2 assay (HEK293T cells)
+                barr2_bret  = beta-arrestin2 recruitment BRET2 assay
+                ca_flux     = Ca2+ flux assay (Flp-In 293 T-Rex cells)
+                ki          = radioligand displacement ([125I]-DOI)
+receptor      : serotonin receptor subtype
+ec50_nM       : EC50 in nM (or Ki in nM for ki assay); from nonlinear regression
+emax_pct      : Emax as % of 5-HT response at same receptor/assay; blank for ki rows
+source_figure : figure in the paper where this value appears
+notes         : compound class, stereochemistry notes, etc.
+
+Assay details
+-------------
+All BRET assays: BRET2 in HEK293T cells, transfected 48h before assay.
+  Gq dissociation: 1:1:1:1 ratio receptor:Ga-Rluc8:Beta:GFP2-gamma
+  beta-arrestin2:  1:7.5 ratio 5-HT-Rluc8:GFP2-fused-beta-Arrestin2
+  Coelenterazine 400a substrate, 60 min drug incubation at 37C
+  Data normalised to % 5-HT positive control
+Ca2+ flux: Flp-In 293 T-Rex stable cell lines, Fluo-4 Direct dye, FLIPR Tetra
+Ki: radioligand displacement with [125I]-DOI at human 5-HT2A
+
+Alpha-alkyl series nomenclature
+--------------------------------
+DOM      = 2,5-dimethoxy-4-methylamphetamine       (alpha-methyl,  4-methyl)  HALLUCINOGEN
+Ariadne  = 4C-D = alpha-ethyl DOM                  (alpha-ethyl,   4-methyl)  NON-HALLUCINOGEN
+5C-D     = alpha-propyl DOM                        (alpha-propyl,  4-methyl)  NON-HALLUCINOGEN
+DOPr     = 2,5-dimethoxy-4-propylamphetamine       (alpha-methyl,  4-propyl)  HALLUCINOGEN
+4C-Pr    = alpha-ethyl DOPr                        (alpha-ethyl,   4-propyl)  NON-HALLUCINOGEN
+DOI      = 2,5-dimethoxy-4-iodoamphetamine         (alpha-methyl,  4-iodo)    HALLUCINOGEN
+4C-I     = alpha-ethyl DOI = iodo-Ariadne          (alpha-ethyl,   4-iodo)    NON-HALLUCINOGEN
+4C-TFM   = alpha-ethyl DOTFM                       (alpha-ethyl,   4-CF3)     NON-HALLUCINOGEN
+4C-cycPr = alpha-ethyl cyclopropyl analog          (alpha-ethyl,   4-cyclopropyl)
+4C-MOM   = alpha-ethyl methoxymethyl analog        (alpha-ethyl,   4-OCH2OCH3)
+
+Key results from paper
+-----------------------
+- Ariadne is non-hallucinogenic in humans up to 300 mg (clinical data)
+- DOM is hallucinogenic at 3-5 mg in humans
+- Mechanism: NOT biased agonism. Ariadne shows equal drop in potency and
+  efficacy at both Gq and beta-arrestin2 (~4-6 fold weaker potency vs DOM,
+  ~15-20% lower Emax across all pathways)
+- Proposed mechanism: signaling efficacy hypothesis — partial agonism
+  below threshold needed for hallucinosis
+- Structural basis: alpha-ethyl group clashes with W336/F340 in the
+  orthosteric binding sub-pocket of 5-HT2A (PDB: 6WHA)
+- 4C-TFM shows 8-fold 5-HT2A/2B selectivity — most cardiac-safe analog
+- Ariadne rescues motor deficits in auxilin-KO Parkinson's mouse model
