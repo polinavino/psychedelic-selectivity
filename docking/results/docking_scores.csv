@@ -1,0 +1,44 @@
+compound,best_score,second_score,n_poses,elapsed_s,status,pdbqt_out
+serotonin,-6.232,-6.077,9.0,2.7613298892974854,OK,results/poses/serotonin.pdbqt
+tryptamine,-6.614,-6.294,9.0,2.288830280303955,OK,results/poses/tryptamine.pdbqt
+melatonin,-6.737,-6.549,9.0,3.103764057159424,OK,results/poses/melatonin.pdbqt
+DMT,-6.179,-6.073,9.0,2.416952133178711,OK,results/poses/DMT.pdbqt
+5-MeO-DMT,-6.13,-5.962,9.0,2.951530933380127,OK,results/poses/5-MeO-DMT.pdbqt
+bufotenine,-6.265,-6.116,9.0,3.1304771900177,OK,results/poses/bufotenine.pdbqt
+psilocin,-6.213,-6.095,9.0,3.227374792098999,OK,results/poses/psilocin.pdbqt
+5-Me-DMT,-6.414,-5.912,9.0,2.9398508071899414,OK,results/poses/5-Me-DMT.pdbqt
+6-F-DMT,-6.355,-6.228,9.0,3.003046751022339,OK,results/poses/6-F-DMT.pdbqt
+LSD,,,,,failed: libc++abi: terminating due to uncaught exception of type internal_error,
+2-Bromo-LSD,,,,,failed: libc++abi: terminating due to uncaught exception of type internal_error,
+psilocybin,-6.452,-6.451,9.0,4.554301977157593,OK,results/poses/psilocybin.pdbqt
+DPT,-6.469,-6.25,9.0,4.613925933837891,OK,results/poses/DPT.pdbqt
+DiPT,-6.927,-6.734,9.0,4.447053909301758,OK,results/poses/DiPT.pdbqt
+5-MeO-DiPT,-7.455,-7.254,9.0,4.895405054092407,OK,results/poses/5-MeO-DiPT.pdbqt
+5-MeO-MiPT,-6.962,-6.747,9.0,4.248181104660034,OK,results/poses/5-MeO-MiPT.pdbqt
+5-MeO-T,-6.516,-6.477,9.0,2.7525618076324463,OK,results/poses/5-MeO-T.pdbqt
+AMT,-6.656,-6.226,9.0,2.421006202697754,OK,results/poses/AMT.pdbqt
+AMT (-),-6.894,-6.483,9.0,2.3849589824676514,OK,results/poses/AMT__-.pdbqt
+DALT,-6.697,-6.694,9.0,4.206161975860596,OK,results/poses/DALT.pdbqt
+5-MeO-DALT,-6.773,-6.675,9.0,5.20810604095459,OK,results/poses/5-MeO-DALT.pdbqt
+5-F-DALT,-6.712,-6.685,9.0,4.671643972396851,OK,results/poses/5-F-DALT.pdbqt
+5-Br-DALT,-7.004,-6.898,9.0,4.743969202041626,OK,results/poses/5-Br-DALT.pdbqt
+4-HO-DALT,-6.953,-6.87,9.0,5.0539391040802,OK,results/poses/4-HO-DALT.pdbqt
+4-AcO-DALT,-7.09,-6.977,9.0,6.263718128204346,OK,results/poses/4-AcO-DALT.pdbqt
+2-Ph-DALT,-7.891,-7.889,9.0,6.317259073257446,OK,results/poses/2-Ph-DALT.pdbqt
+7-Et-DALT,-6.822,-6.814,9.0,5.103067874908447,OK,results/poses/7-Et-DALT.pdbqt
+5-MeO-2-Me-DALT,-6.898,-6.894,9.0,5.231234073638916,OK,results/poses/5-MeO-2-Me-DALT.pdbqt
+5-MeO-2-F-DALT,-6.989,-6.958,9.0,5.164618015289307,OK,results/poses/5-MeO-2-F-DALT.pdbqt
+ibogaine,-8.656,-8.165,9.0,2.4518139362335205,OK,results/poses/ibogaine.pdbqt
+mescaline,-5.912,-5.49,9.0,3.4440042972564697,OK,results/poses/mescaline.pdbqt
+MDMA,-6.336,-5.89,9.0,2.3502471446990967,OK,results/poses/MDMA.pdbqt
+MDA,-6.093,-6.064,9.0,2.369338274002075,OK,results/poses/MDA.pdbqt
+MDA R(-),-6.238,-6.017,9.0,2.348146915435791,OK,results/poses/MDA_R_-.pdbqt
+"MDA (R,S)",-6.244,-5.909,9.0,2.3986387252807617,OK,results/poses/MDA__R_S.pdbqt
+DOB,-5.572,-5.513,9.0,3.1935417652130127,OK,results/poses/DOB.pdbqt
+DOI,-5.657,-5.372,9.0,3.1502249240875244,OK,results/poses/DOI.pdbqt
+DOM,-5.878,-5.597,9.0,3.148348808288574,OK,results/poses/DOM.pdbqt
+DOET,-5.643,-5.642,9.0,3.9690659046173096,OK,results/poses/DOET.pdbqt
+2C-B,-5.175,-5.157,9.0,3.224513053894043,OK,results/poses/2C-B.pdbqt
+2C-E,-5.377,-5.372,9.0,3.556281089782715,OK,results/poses/2C-E.pdbqt
+2C-T-2,-5.372,-5.214,9.0,3.9646201133728027,OK,results/poses/2C-T-2.pdbqt
+2C-H,-5.968,-5.825,9.0,2.8446900844573975,OK,results/poses/2C-H.pdbqt

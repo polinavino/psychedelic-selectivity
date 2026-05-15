@@ -1,0 +1,36 @@
+Docking Summary Report
+=================================================================
+n = 31 compounds (22 tryptamines, 9 phenethylamines)
+
+Overall:        Pearson r = +0.428  p = 0.0163
+                Spearman rho = +0.471  p = 0.0075
+
+Tryptamines:    r = -0.243  p = 0.2767  (n=22)
+Phenethylamines:r = +0.800  p = 0.0096  (n=9)
+
+Scaffold score gap: tryptamine mean = -6.665, phenethylamine mean = -5.694
+  t-test: t = -6.07, p = 1.33e-06
+
+Interpretation:
+  Overall r = +0.428 is positive — WRONG direction.
+  A predictive model should have r < 0 (better docking = higher pKi).
+  The positive correlation is driven by scaffold separation:
+    tryptamines dock better (mean -6.67)
+    phenethylamines dock worse (mean -5.69)
+  but phenethylamines have comparable or higher measured pKi.
+  DOB (pKi=8.27) and DOI (pKi=8.28) are among the strongest binders
+  yet dock at only -5.57 and -5.66 kcal/mol.
+
+  Within phenethylamines: r = +0.800 — strong positive correlation,
+  again wrong direction. The best binders (2C-B, DOB, DOI) dock worst.
+
+  Cause: 6WHA was co-crystallised with 25CN-NBOH, a tryptamine-like
+  compound. The orthosteric pocket geometry is optimised for tryptamine
+  scaffolds. Phenethylamines bind through a different mode not captured
+  by this structure.
+
+  This is the 3D analogue of the QSAR scaffold confounding finding:
+  structure-based virtual screening at 6WHA will systematically favour
+  tryptamines over phenethylamines regardless of true affinity.
+
+Saved analysis/docking_summary.png

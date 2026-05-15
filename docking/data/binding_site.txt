@@ -1,0 +1,9 @@
+# Docking box parameters for 5-HT2A receptor (6WHA)
+# Centre = centroid of co-crystallised ligand U0G
+# Box size chosen to cover full orthosteric binding pocket
+center_x = 98.126
+center_y = 106.210
+center_z = 94.142
+size_x = 25.0
+size_y = 25.0
+size_z = 25.0

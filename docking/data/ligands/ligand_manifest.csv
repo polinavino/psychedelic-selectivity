@@ -1,0 +1,46 @@
+compound,safe_name,smiles,pdbqt,status
+serotonin,serotonin,NCCc1c[nH]c2cccc(O)c12,data/ligands/serotonin.pdbqt,OK
+tryptamine,tryptamine,NCCc1c[nH]c2ccccc12,data/ligands/tryptamine.pdbqt,OK
+melatonin,melatonin,COc1ccc2[nH]cc(CCNC(C)=O)c2c1,data/ligands/melatonin.pdbqt,OK
+DMT,DMT,CN(C)CCc1c[nH]c2ccccc12,data/ligands/DMT.pdbqt,OK
+5-MeO-DMT,5-MeO-DMT,CN(C)CCc1c[nH]c2cc(OC)ccc12,data/ligands/5-MeO-DMT.pdbqt,OK
+bufotenine,bufotenine,CN(C)CCc1c[nH]c2cc(O)ccc12,data/ligands/bufotenine.pdbqt,OK
+psilocin,psilocin,CN(C)CCc1[nH]c2cccc(O)c2c1,data/ligands/psilocin.pdbqt,OK
+5-Me-DMT,5-Me-DMT,CN(C)CCc1c[nH]c2cc(C)ccc12,data/ligands/5-Me-DMT.pdbqt,OK
+6-F-DMT,6-F-DMT,CN(C)CCc1c[nH]c2ccc(F)cc12,data/ligands/6-F-DMT.pdbqt,OK
+LSD,LSD,CCN(CC)C(=O)[C@H]1CN(C)C[C@@H]2Cc3c[nH]c4cccc(c34)[C@@H]12,data/ligands/LSD.pdbqt,OK
+LSD (+),LSD,CCN(CC)C(=O)[C@H]1CN(C)C[C@@H]2Cc3c[nH]c4cccc(c34)[C@@H]12,data/ligands/LSD.pdbqt,OK
+2-Bromo-LSD,2-Bromo-LSD,CCN(CC)C(=O)[C@H]1CN(C)C[C@@H]2Cc3c(Br)[nH]c4cccc(c34)[C@@H]12,data/ligands/2-Bromo-LSD.pdbqt,OK
+psilocybin,psilocybin,CN(C)CCc1[nH]c2cccc(OP(=O)(O)O)c2c1,data/ligands/psilocybin.pdbqt,OK
+DPT,DPT,CCCN(CCC)CCc1c[nH]c2ccccc12,data/ligands/DPT.pdbqt,OK
+DiPT,DiPT,CC(C)N(CC(C)C)CCc1c[nH]c2ccccc12,data/ligands/DiPT.pdbqt,OK
+5-MeO-DiPT,5-MeO-DiPT,CC(C)N(CC(C)C)CCc1c[nH]c2cc(OC)ccc12,data/ligands/5-MeO-DiPT.pdbqt,OK
+5-MeO-MiPT,5-MeO-MiPT,CN(CC(C)C)CCc1c[nH]c2cc(OC)ccc12,data/ligands/5-MeO-MiPT.pdbqt,OK
+5-MeO-T,5-MeO-T,NCCc1c[nH]c2cc(OC)ccc12,data/ligands/5-MeO-T.pdbqt,OK
+AMT,AMT,CC(N)Cc1c[nH]c2ccccc12,data/ligands/AMT.pdbqt,OK
+AMT (+),AMT,[C@@H](Cc1c[nH]c2ccccc12)(N)C,data/ligands/AMT.pdbqt,OK
+AMT (-),AMT__-,[C@H](Cc1c[nH]c2ccccc12)(N)C,data/ligands/AMT__-.pdbqt,OK
+DALT,DALT,C=CCN(CC=C)CCc1c[nH]c2ccccc12,data/ligands/DALT.pdbqt,OK
+5-MeO-DALT,5-MeO-DALT,C=CCN(CC=C)CCc1c[nH]c2cc(OC)ccc12,data/ligands/5-MeO-DALT.pdbqt,OK
+5-F-DALT,5-F-DALT,C=CCN(CC=C)CCc1c[nH]c2cc(F)ccc12,data/ligands/5-F-DALT.pdbqt,OK
+5-Br-DALT,5-Br-DALT,C=CCN(CC=C)CCc1c[nH]c2cc(Br)ccc12,data/ligands/5-Br-DALT.pdbqt,OK
+4-HO-DALT,4-HO-DALT,C=CCN(CC=C)CCc1[nH]c2cccc(O)c2c1,data/ligands/4-HO-DALT.pdbqt,OK
+4-AcO-DALT,4-AcO-DALT,C=CCN(CC=C)CCc1[nH]c2cccc(OC(C)=O)c2c1,data/ligands/4-AcO-DALT.pdbqt,OK
+2-Ph-DALT,2-Ph-DALT,C=CCN(CC=C)CCc1c(-c2ccccc2)[nH]c2ccccc12,data/ligands/2-Ph-DALT.pdbqt,OK
+7-Et-DALT,7-Et-DALT,C=CCN(CC=C)CCc1c[nH]c2cccc(CC)c12,data/ligands/7-Et-DALT.pdbqt,OK
+5-MeO-2-Me-DALT,5-MeO-2-Me-DALT,C=CCN(CC=C)CCc1[nH]c2cc(OC)ccc2c1C,data/ligands/5-MeO-2-Me-DALT.pdbqt,OK
+5-MeO-2-F-DALT,5-MeO-2-F-DALT,C=CCN(CC=C)CCc1[nH]c2cc(OC)ccc2c1F,data/ligands/5-MeO-2-F-DALT.pdbqt,OK
+ibogaine,ibogaine,COc1ccc2[nH]c3c(c2c1)C[C@H]1CCN2CC[C@@H]([C@H]12)CC3,data/ligands/ibogaine.pdbqt,OK
+mescaline,mescaline,COc1cc(CCN)cc(OC)c1OC,data/ligands/mescaline.pdbqt,OK
+MDMA,MDMA,CNC(C)Cc1ccc2c(c1)OCO2,data/ligands/MDMA.pdbqt,OK
+MDA,MDA,CC(N)Cc1ccc2c(c1)OCO2,data/ligands/MDA.pdbqt,OK
+MDA R(-),MDA_R_-,[C@@H](Cc1ccc2c(c1)OCO2)(N)C,data/ligands/MDA_R_-.pdbqt,OK
+"MDA (R,S)",MDA__R_S,CC(N)Cc1ccc2c(c1)OCO2,data/ligands/MDA__R_S.pdbqt,OK
+DOB,DOB,CC(N)Cc1cc(OC)c(Br)cc1OC,data/ligands/DOB.pdbqt,OK
+DOI,DOI,CC(N)Cc1cc(OC)c(I)cc1OC,data/ligands/DOI.pdbqt,OK
+DOM,DOM,CC(N)Cc1cc(OC)c(C)cc1OC,data/ligands/DOM.pdbqt,OK
+DOET,DOET,CC(N)Cc1cc(OC)c(CC)cc1OC,data/ligands/DOET.pdbqt,OK
+2C-B,2C-B,NCCc1cc(OC)c(Br)cc1OC,data/ligands/2C-B.pdbqt,OK
+2C-E,2C-E,NCCc1cc(OC)c(CC)cc1OC,data/ligands/2C-E.pdbqt,OK
+2C-T-2,2C-T-2,NCCc1cc(OC)c(SCC)cc1OC,data/ligands/2C-T-2.pdbqt,OK
+2C-H,2C-H,NCCc1cc(OC)ccc1OC,data/ligands/2C-H.pdbqt,OK

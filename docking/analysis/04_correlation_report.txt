@@ -1,0 +1,56 @@
+Docking Score vs PDSP pKi Correlation Analysis
+=================================================================
+Compounds with both docking score and PDSP pKi: 31
+
+Docking score range: -7.891 to -5.175 kcal/mol
+pKi range: 5.094 to 8.280
+
+Overall correlation (n=31):
+  Pearson  r  = 0.428  (p=1.627e-02)
+  Spearman rho = 0.471  (p=7.543e-03)
+  Note: negative r = docking score predicts binding (more negative score -> higher pKi)
+
+Correlation within scaffold classes:
+  tryptamine       n=22  r=-0.243  p=2.767e-01
+  phenethylamine   n= 9  r=0.800  p=9.612e-03
+
+Mean docking score by scaffold class:
+  phenethylamine   n= 9  mean=-5.694  std=0.393  range=[-6.336, -5.175]
+  tryptamine       n=22  mean=-6.665  std=0.409  range=[-7.891, -6.130]
+
+Full compound table (sorted by docking score):
+Compound                        Score   pKi_2A Class           
+-----------------------------------------------------------------
+  2-Ph-DALT                    -7.891    7.886 tryptamine      
+  4-AcO-DALT                   -7.090    6.248 tryptamine      
+  5-Br-DALT                    -7.004    6.321 tryptamine      
+  5-MeO-2-F-DALT               -6.989    6.184 tryptamine      
+  5-MeO-MiPT                   -6.962    6.348 tryptamine      
+  4-HO-DALT                    -6.953    6.186 tryptamine      
+  5-MeO-2-Me-DALT              -6.898    5.938 tryptamine      
+  7-Et-DALT                    -6.822    5.820 tryptamine      
+  5-MeO-DALT                   -6.773    6.662 tryptamine      
+  5-F-DALT                     -6.712    6.607 tryptamine      
+  DALT                         -6.697    6.154 tryptamine      
+  tryptamine                   -6.614    6.189 tryptamine      
+  5-MeO-T                      -6.516    6.280 tryptamine      
+  DPT                          -6.469    5.589 tryptamine      
+  psilocybin                   -6.452    7.886 tryptamine      
+  5-Me-DMT                     -6.414    6.462 tryptamine      
+  6-F-DMT                      -6.355    6.062 tryptamine      
+  MDMA                         -6.336    5.094 phenethylamine  
+  bufotenine                   -6.265    6.508 tryptamine      
+  MDA R(-)                     -6.238    5.474 phenethylamine  
+  serotonin                    -6.232    6.739 tryptamine      
+  psilocin                     -6.213    6.469 tryptamine      
+  DMT                          -6.179    6.429 tryptamine      
+  5-MeO-DMT                    -6.130    6.413 tryptamine      
+  DOM                          -5.878    7.487 phenethylamine  
+  DOI                          -5.657    8.280 phenethylamine  
+  DOET                         -5.643    7.276 phenethylamine  
+  DOB                          -5.572    8.269 phenethylamine  
+  2C-E                         -5.377    7.358 phenethylamine  
+  2C-T-2                       -5.372    7.399 phenethylamine  
+  2C-B                         -5.175    7.812 phenethylamine  
+
+Saved analysis/docking_vs_pki.png
